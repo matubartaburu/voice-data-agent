@@ -1,0 +1,4 @@
+id,date,type,card,amount,currency,merchant,origen,monto_conocido
+3d7187d299f11560,2026-11-05T01:54:00Z,debito,1111,1705.77,UYU,Super Norte,mail,1
+3d5a6a82d34ee37c,2026-11-04T22:15:00Z,debito,1111,416.49,UYU,Pizzería Roma,mail,1
+48baa1b8bc1dea13,2026-11-04T17:24:00Z,debito,1111,783.08,UYU,Taxi App Centro,mail,1

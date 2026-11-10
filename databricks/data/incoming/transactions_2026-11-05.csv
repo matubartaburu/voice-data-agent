@@ -1,0 +1,4 @@
+id,date,type,card,amount,currency,merchant,origen,monto_conocido
+a2ed0af6b53de53b,2026-11-05T12:11:00Z,debito,1111,886.01,UYU,DeliveryYa Envío,mail,1
+d8dc58f89e2bda2c,2026-11-05T15:00:00Z,debito,1111,181.45,UYU,Taxi App Centro,mail,1
+00d635a6d9470f88,2026-11-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1

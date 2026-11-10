@@ -1,0 +1,4 @@
+id,date,type,card,amount,currency,merchant,origen,monto_conocido
+590d9412ad3d4b0c,2026-11-04T01:09:00Z,debito,1111,923.89,UYU,Pizzería Roma,mail,1
+00178b0c06bc62d5,2026-11-03T17:53:00Z,debito,1111,85.78,UYU,Kiosco 24h,mail,1
+227f248e26616bff,2026-11-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1

@@ -1,0 +1,6 @@
+id,date,type,card,amount,currency,merchant,origen,monto_conocido
+935c2d04dfac6109,2026-11-01T21:25:00Z,debito,1111,1025.02,UYU,Almacén La Esquina,mail,1
+586fb6cf590b7748,2026-11-02T02:50:00Z,reembolso,1111,1025.02,UYU,Almacén La Esquina,mail,1
+4cc47eebb512f808,2026-11-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+21d6702a7ecf2c6b,2026-11-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+4f33b1a0a0bce192,2026-11-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1

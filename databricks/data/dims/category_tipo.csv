@@ -1,0 +1,16 @@
+category,tipo,excluded
+Alquiler,esencial,false
+Universidad,esencial,false
+Celular,esencial,false
+Supermercado,esencial,false
+Salud,esencial,false
+Gym,esencial,false
+Comida,prescindible,false
+Café,prescindible,false
+Kiosco,prescindible,false
+Transporte,prescindible,false
+Ocio,prescindible,false
+Compras online,prescindible,false
+Suscripciones,prescindible,false
+Viajes,prescindible,false
+Ahorro,excluido,true

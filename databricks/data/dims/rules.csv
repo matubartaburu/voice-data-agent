@@ -1,0 +1,28 @@
+rule_id,pattern,category
+1,SUPER NORTE,Supermercado
+2,MERCADO CENTRAL,Supermercado
+3,ALMACÉN,Supermercado
+4,PIZZERÍA,Comida
+5,BURGER,Comida
+6,SUSHI,Comida
+7,DELIVERYYA,Comida
+8,CAFÉ,Café
+9,TOSTADO,Café
+10,TAXI,Transporte
+11,KIOSCO,Kiosco
+12,FARMACIA,Salud
+13,ÓPTICA,Salud
+14,CINE,Ocio
+15,BAR LA PLAZA,Ocio
+16,TIENDA WEB,Compras online
+17,ELECTRO,Compras online
+18,STREAMING,Suscripciones
+19,CLOUD STORAGE,Suscripciones
+20,AI TOOLS,Suscripciones
+21,RESORT,Viajes
+22,INTL STORE,Compras online
+23,ALQUILER,Alquiler
+24,UNIVERSIDAD,Universidad
+25,GYM,Gym
+26,CELULAR,Celular
+27,AHORRO,Ahorro

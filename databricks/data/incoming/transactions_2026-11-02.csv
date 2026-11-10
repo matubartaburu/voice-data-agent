@@ -1,0 +1,3 @@
+id,date,type,card,amount,currency,merchant,origen,monto_conocido
+c941cc9e3f2701cc,2026-11-03T01:28:00Z,debito,1111,921.82,UYU,Pizzería Roma,mail,1
+b677321014a63e62,2026-11-02T23:49:00Z,debito,1111,167.02,UYU,Café del Puerto,mail,1

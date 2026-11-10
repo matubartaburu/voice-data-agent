@@ -1,0 +1,967 @@
+id,date,type,card,amount,currency,merchant,origen,monto_conocido
+c03f40f636f63f47,2025-11-01T13:27:00Z,debito,1111,1474.20,UYU,Almacén La Esquina,mail,1
+dcf7904a61a7bef3,2025-11-01T13:01:00Z,debito,1111,1069.92,UYU,DeliveryYa Envío,mail,1
+3520129c8b711ef8,2025-11-01T17:07:00Z,debito,1111,252.14,UYU,Taxi App,mail,1
+2b051b925e7514c9,2025-11-01T17:39:00Z,debito,1111,1893.47,UYU,Bar La Plaza,mail,1
+56f4ebcba728aef9,2025-11-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+4a523028ea8ac85d,2025-11-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+6badd76297e073d5,2025-11-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+9e04bd96b32e3862,2025-11-02T11:46:00Z,debito,1111,632.79,UYU,Almacén La Esquina,mail,1
+61ed85d8b961cc4f,2025-11-02T22:16:00Z,debito,1111,373.65,UYU,DeliveryYa Envío,mail,1
+ca780680ebbc2a9f,2025-11-02T21:53:00Z,debito,1111,259.05,UYU,Kiosco 24h,mail,1
+8136671140ad9f8b,2025-11-02T15:02:00Z,debito,1111,766.32,UYU,Bar La Plaza,mail,1
+4db6d88a3ccae62a,2025-11-03T12:47:00Z,debito,1111,360.36,UYU,DeliveryYa Envío,mail,1
+b2357ed0ad1b928e,2025-11-03T15:57:00Z,debito,1111,189.62,UYU,Café del Puerto,mail,1
+d77205a4a9add069,2025-11-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+cc2372c4c61632b6,2025-11-04T12:03:00Z,debito,1111,1180.15,UYU,Almacén La Esquina,mail,1
+87fd509e048cba9d,2025-11-05T13:02:00Z,debito,1111,108.85,UYU,Tostado Café,mail,1
+2e87887777cf716f,2025-11-05T14:11:00Z,debito,1111,41.37,UYU,Kiosco 24h,mail,1
+39039d9f07bf8013,2025-11-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+6ce29cec008d20da,2025-11-06T20:16:00Z,debito,1111,885.78,UYU,Mercado Central,mail,1
+b59d695483af731f,2025-11-06T22:32:00Z,debito,1111,305.07,UYU,Taxi App,mail,1
+65c5a3a54207f662,2025-11-06T15:27:00Z,debito,1111,135.08,UYU,Kiosco 24h,mail,1
+8bfaff0b9a922474,2025-11-08T01:37:00Z,debito,1111,1432.09,UYU,Super Norte,mail,1
+eb5934e2b7962bd1,2025-11-08T01:47:00Z,debito,1111,1059.76,UYU,DeliveryYa Envío,mail,1
+44248e8aa0e3448b,2025-11-07T20:46:00Z,debito,1111,127.77,UYU,Taxi App,mail,1
+9a6ce665030aa78e,2025-11-09T19:47:00Z,debito,1111,406.06,UYU,Burger Lab,mail,1
+2e6778830d96d560,2025-11-10T18:15:00Z,debito,1111,482.85,UYU,Pizzería Roma,mail,1
+84a2cbc05c7bcd3d,2025-11-10T14:56:00Z,debito,1111,155.18,UYU,Kiosco 24h,mail,1
+dac2b7b69fe96237,2025-11-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+fb26e88205802eec,2025-11-11T17:30:00Z,debito,1111,1448.22,UYU,Super Norte,mail,1
+26cb13b22a155a4f,2025-11-11T20:48:00Z,debito,1111,177.54,UYU,Café del Puerto,mail,1
+ff6a5e68b25939a7,2025-11-11T14:02:00Z,debito,1111,1194.59,UYU,Farmacia Central,mail,1
+699431863f17550e,2025-11-12T13:13:00Z,debito,1111,865.23,UYU,Super Norte,mail,1
+a41c654335e19777,2025-11-12T23:47:00Z,debito,1111,165.72,UYU,Café del Puerto,mail,1
+6a51c6d41a006fc1,2025-11-12T21:37:00Z,debito,1111,192.55,UYU,Taxi App Centro,mail,1
+3ae6efc3207c9b35,2025-11-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+8b26001f776374e6,2025-11-13T18:00:00Z,debito,1111,781.69,UYU,Pizzería Roma,mail,1
+d4c536881c7f25a8,2025-11-13T15:56:00Z,debito,1111,526.30,UYU,Taxi App,mail,1
+d955fe3f4ab0f5c4,2025-11-13T23:29:00Z,debito,1111,602.32,UYU,Farmacia Central,mail,1
+a53509b4d1ef112d,2025-11-14T14:50:00Z,debito,1111,2150.18,UYU,Almacén La Esquina,mail,1
+65817095c2c89bbc,2025-11-14T19:46:00Z,debito,1111,177.01,UYU,Tostado Café,mail,1
+4f92bb4a09e4b8fa,2025-11-14T20:00:00Z,debito,1111,179.36,UYU,Kiosco 24h,mail,1
+d86612ed76c87021,2025-11-15T00:03:00Z,debito,1111,253.23,UYU,Óptica Visión,mail,1
+b283908b88ac5b61,2025-11-14T18:09:00Z,debito,1111,945.33,UYU,Bar La Plaza,mail,1
+89e54c9ee584f9af,2025-11-15T15:56:00Z,debito,1111,398.89,UYU,Burger Lab,mail,1
+5bd24e710f432c74,2025-11-15T19:55:00Z,debito,1111,0.00,UYU,Taxi App (sin monto informado),mail,0
+c6d961fa4ad9a3d5,2025-11-17T00:34:00Z,debito,1111,1382.97,UYU,Mercado Central,mail,1
+4261d5cb1e5c0626,2025-11-16T19:30:00Z,debito,1111,472.87,UYU,Burger Lab,mail,1
+2a4d4f4ef53ba2b5,2025-11-16T17:59:00Z,debito,1111,114.65,UYU,Tostado Café,mail,1
+fc3fc43413b1d1f8,2025-11-16T16:46:00Z,debito,1111,308.69,UYU,Taxi App,mail,1
+67e5d3b5638dc600,2025-11-17T20:48:00Z,debito,1111,0.00,UYU,Kiosco 24h (sin monto informado),mail,0
+a06d6ffdef05833e,2025-11-18T23:33:00Z,debito,1111,311.95,UYU,Café del Puerto,mail,1
+5a164fb9135acb99,2025-11-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+d218ee3ee525217b,2025-11-19T11:53:00Z,debito,1111,364.67,UYU,Pizzería Roma,mail,1
+838c2f3e5d47b465,2025-11-19T23:44:00Z,debito,1111,179.67,UYU,Kiosco 24h,mail,1
+8778b4c3d5ee3d3b,2025-11-20T19:36:00Z,debito,1111,933.69,UYU,Super Norte,mail,1
+5d1678f0e72497b3,2025-11-20T17:44:00Z,debito,1111,225.97,UYU,Café del Puerto,mail,1
+a6c814751915d7a7,2025-11-20T23:23:00Z,debito,1111,224.96,UYU,Taxi App,mail,1
+625531ea63917fbf,2025-11-20T23:43:00Z,debito,1111,260.82,UYU,Kiosco 24h,mail,1
+136476359cb8605d,2025-11-20T21:37:00Z,debito,1111,304.01,UYU,Óptica Visión,mail,1
+0e4d62d6fc4c7a92,2025-11-21T18:56:00Z,debito,1111,814.89,UYU,Sushi Corner,mail,1
+941d1cb2378963b0,2025-11-21T15:23:00Z,debito,1111,287.79,UYU,Taxi App Centro,mail,1
+5e7d48bb4ab19e75,2025-11-22T14:11:00Z,debito,1111,2609.86,UYU,Mercado Central,mail,1
+6854e570e0aabb7d,2025-11-22T11:54:00Z,debito,1111,833.05,UYU,DeliveryYa Envío,mail,1
+5a9fdfcdb0278915,2025-11-22T18:07:00Z,debito,1111,253.08,UYU,Café del Puerto,mail,1
+e0ed774d2f1e8ed6,2025-11-22T11:47:00Z,debito,1111,209.56,UYU,Taxi App,mail,1
+0938fa977cb80087,2025-11-23T13:47:00Z,debito,1111,521.71,UYU,Burger Lab,mail,1
+dcebe61ed93e5861,2025-11-23T23:56:00Z,debito,1111,160.43,UYU,Taxi App,mail,1
+c2d22c1ec977d020,2025-11-23T19:35:00Z,debito,1111,118.15,UYU,Kiosco 24h,mail,1
+9f2034ff603e09f2,2025-11-24T19:02:00Z,debito,1111,985.59,UYU,Super Norte,mail,1
+a67172e4fcaebba5,2025-11-25T15:22:00Z,debito,1111,1501.49,UYU,Super Norte,mail,1
+4853a0267ea5afc5,2025-11-25T14:54:00Z,debito,1111,446.09,UYU,Taxi App,mail,1
+7b86caa90c871a00,2025-11-25T17:15:00Z,debito,1111,86.63,UYU,Kiosco 24h,mail,1
+ea69c64c2ab9a752,2025-11-26T21:58:00Z,debito,1111,460.81,UYU,DeliveryYa Envío,mail,1
+2d84abc248bc38cb,2025-11-26T16:21:00Z,debito,1111,175.61,UYU,Tostado Café,mail,1
+5f2d9bb48de47243,2025-11-26T18:48:00Z,debito,1111,277.32,UYU,Taxi App,mail,1
+7b5c35555a315ee2,2025-11-27T23:31:00Z,debito,1111,1287.73,UYU,Mercado Central,mail,1
+fa5b688d9c1e0ea1,2025-11-27T14:13:00Z,debito,1111,294.60,UYU,DeliveryYa Envío,mail,1
+9dc20b48dcc2d77e,2025-11-28T13:13:00Z,debito,1111,821.15,UYU,Sushi Corner,mail,1
+035a18a027dba7cc,2025-11-28T23:23:00Z,debito,1111,702.32,UYU,Taxi App Centro,mail,1
+25e45e69619cb19f,2025-11-28T13:08:00Z,debito,1111,145.15,UYU,Kiosco 24h,mail,1
+955e740a12b4b945,2025-11-29T14:58:00Z,debito,1111,1004.37,UYU,Sushi Corner,mail,1
+e3f0096318499113,2025-11-29T13:59:00Z,debito,1111,224.38,UYU,Taxi App Centro,mail,1
+2733f4e70b5f59f5,2025-11-29T14:54:00Z,debito,1111,119.32,UYU,Kiosco 24h,mail,1
+9fa7cc328ebcd24c,2025-11-30T22:20:00Z,debito,1111,214.33,UYU,Tostado Café,mail,1
+e806582f1bc6b2e4,2025-11-30T20:23:00Z,debito,1111,101.98,UYU,Kiosco 24h,mail,1
+4509c622849288b8,2025-12-01T14:26:00Z,debito,1111,280.73,UYU,Taxi App Centro,mail,1
+afef5e800abd54f2,2025-12-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+e253892558bc4200,2025-12-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+9c6faff4ec5e6b50,2025-12-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+8f0c1e78a451e04a,2025-12-02T17:06:00Z,debito,1111,1704.67,UYU,Mercado Central,mail,1
+4dc374a81bcf54b8,2025-12-02T23:35:00Z,debito,1111,585.87,UYU,DeliveryYa Envío,mail,1
+c14d13e6f8137b0c,2025-12-02T23:00:00Z,debito,1111,305.26,UYU,Taxi App Centro,mail,1
+c11aee25992a1584,2025-12-03T00:36:00Z,debito,1111,152.82,UYU,Kiosco 24h,mail,1
+3ceec36bfe07b7f9,2025-12-03T13:55:00Z,debito,1111,120.49,UYU,Tostado Café,mail,1
+6ab400898c0c16e3,2025-12-04T01:58:00Z,debito,1111,91.97,UYU,Kiosco 24h,mail,1
+89839257eacfc66b,2025-12-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+f11404a77aa7dbed,2025-12-05T01:33:00Z,debito,1111,777.54,UYU,Burger Lab,mail,1
+8335a8c63a30cf1d,2025-12-04T15:21:00Z,debito,1111,98.11,UYU,Kiosco 24h,mail,1
+425ef00132ffb641,2025-12-04T16:05:00Z,credito,2222,41.87,USD,Intl Store,mail,1
+e8aa3da5064036ad,2025-12-05T12:49:00Z,debito,1111,1181.46,UYU,Almacén La Esquina,mail,1
+5b1e3a5210bf5dbf,2025-12-05T18:23:00Z,debito,1111,71.12,UYU,Kiosco 24h,mail,1
+025d2535c28ee1c8,2025-12-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+969420f52962f4f5,2025-12-06T17:39:00Z,debito,1111,768.25,UYU,DeliveryYa Envío,mail,1
+ebbe50d62bc26099,2025-12-06T17:31:00Z,debito,1111,94.39,UYU,Café del Puerto,mail,1
+827c8360ed348725,2025-12-06T17:04:00Z,debito,1111,156.38,UYU,Kiosco 24h,mail,1
+1cc25c142cac23d3,2025-12-06T21:31:00Z,debito,1111,1659.28,UYU,Tienda Web,mail,1
+3b73f3c5a7529fb0,2025-12-07T17:44:00Z,debito,1111,3121.79,UYU,Almacén La Esquina,mail,1
+9067013396c7c97b,2025-12-07T19:03:00Z,debito,1111,698.75,UYU,Burger Lab,mail,1
+58bf6fbc90b5165e,2025-12-07T21:59:00Z,debito,1111,88.89,UYU,Kiosco 24h,mail,1
+310fcdfdc5ec5abb,2025-12-08T20:53:00Z,debito,1111,82.45,UYU,Tostado Café,mail,1
+8d0db7b5b80ef0d0,2025-12-08T12:40:00Z,debito,1111,276.08,UYU,Taxi App Centro,mail,1
+4d2c6fee4f12f529,2025-12-09T21:05:00Z,credito,2222,65.14,USD,Intl Store,mail,1
+d3530cf0806f51e7,2025-12-10T12:34:00Z,debito,1111,380.06,UYU,DeliveryYa Envío,mail,1
+10e53f60be605989,2025-12-10T17:51:00Z,debito,1111,73.42,UYU,Kiosco 24h,mail,1
+347c2b8ae768281b,2025-12-10T22:53:00Z,debito,1111,223.00,UYU,Farmacia Central,mail,1
+9e3e5bf550fd1d92,2025-12-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+cd0490ff94fb8d73,2025-12-12T01:41:00Z,debito,1111,793.48,UYU,Burger Lab,mail,1
+eef9801438a12410,2025-12-12T13:48:00Z,debito,1111,459.42,UYU,DeliveryYa Envío,mail,1
+8707fc1503141e90,2025-12-13T02:07:00Z,reembolso,1111,459.42,UYU,DeliveryYa Envío,mail,1
+b72b724e94881458,2025-12-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+f576989ef60f6b9f,2025-12-14T22:08:00Z,debito,1111,1424.01,UYU,Pizzería Roma,mail,1
+472bc49ef90e9ab1,2025-12-14T20:40:00Z,debito,1111,267.77,UYU,Café del Puerto,mail,1
+8ca575d17b15e791,2025-12-14T16:34:00Z,debito,1111,90.94,UYU,Kiosco 24h,mail,1
+3d3bda5acb538120,2025-12-15T23:19:00Z,debito,1111,88.80,UYU,Kiosco 24h,mail,1
+5b429023243fb1fd,2025-12-16T19:37:00Z,debito,1111,891.37,UYU,Burger Lab,mail,1
+2027beba184c0400,2025-12-17T01:03:00Z,debito,1111,255.23,UYU,Tostado Café,mail,1
+85b6d399a6c8646a,2025-12-16T11:34:00Z,debito,1111,98.51,UYU,Kiosco 24h,mail,1
+c10660571aa043ab,2025-12-16T22:11:00Z,debito,1111,273.94,UYU,Óptica Visión,mail,1
+da220f6475e7853e,2025-12-17T20:04:00Z,debito,1111,225.29,UYU,Kiosco 24h,mail,1
+7c9878aa5f4d13e0,2025-12-17T12:05:00Z,credito,2222,29.43,USD,Intl Store,mail,1
+239f4013f66d5d39,2025-12-19T00:49:00Z,debito,1111,1026.95,UYU,Super Norte,mail,1
+1368fd412ed2c685,2025-12-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+3a19480819bbeacc,2025-12-19T21:34:00Z,debito,1111,307.59,UYU,Taxi App,mail,1
+283c3416d8b62dc0,2025-12-20T21:38:00Z,debito,1111,710.89,UYU,Pizzería Roma,mail,1
+66e998a3a0059c99,2025-12-20T19:20:00Z,debito,1111,116.68,UYU,Tostado Café,mail,1
+3fe11df573c59b85,2025-12-21T22:24:00Z,debito,1111,1195.09,UYU,Super Norte,mail,1
+34e9bfbd426b53da,2025-12-21T19:14:00Z,debito,1111,324.58,UYU,Pizzería Roma,mail,1
+cc38900f714531b0,2025-12-21T18:40:00Z,debito,1111,692.76,UYU,Taxi App Centro,mail,1
+daee26cd296d3547,2025-12-22T13:27:00Z,debito,1111,1004.25,UYU,Mercado Central,mail,1
+0da3bb4b58c30b5c,2025-12-22T21:01:00Z,debito,1111,447.73,UYU,Sushi Corner,mail,1
+da8318bb2ed86bbe,2025-12-22T16:32:00Z,debito,1111,248.57,UYU,Taxi App,mail,1
+b377b3433ac1502d,2025-12-23T21:40:00Z,debito,1111,573.74,UYU,Mercado Central,mail,1
+9235cb485b3d49aa,2025-12-23T11:25:00Z,debito,1111,152.38,UYU,Café del Puerto,mail,1
+25b6df09879dc74a,2025-12-24T00:02:00Z,debito,1111,332.15,UYU,Kiosco 24h,mail,1
+a0b34a1d926732f3,2025-12-24T22:53:00Z,debito,1111,1390.84,UYU,Super Norte,mail,1
+40008968f981de67,2025-12-24T17:41:00Z,debito,1111,183.29,UYU,Café del Puerto,mail,1
+273f6891b335c428,2025-12-24T11:53:00Z,debito,1111,68.77,UYU,Kiosco 24h,mail,1
+00b3e01258d3808e,2025-12-25T14:39:00Z,debito,1111,425.93,UYU,Pizzería Roma,mail,1
+9be8852f0f863193,2025-12-25T19:59:00Z,debito,1111,96.89,UYU,Kiosco 24h,mail,1
+9c8942fff60b2766,2025-12-27T00:54:00Z,debito,1111,1344.05,UYU,Super Norte,mail,1
+d3d7ad49ac3b1352,2025-12-27T00:09:00Z,debito,1111,1464.86,UYU,Burger Lab,mail,1
+1899d674fd1c992b,2025-12-27T19:00:00Z,debito,1111,842.10,UYU,Super Norte,mail,1
+237b71fda203e0d0,2025-12-27T19:12:00Z,debito,1111,636.25,UYU,Pizzería Roma,mail,1
+4bdbcdbd47120d31,2025-12-28T00:30:00Z,debito,1111,203.20,UYU,Café del Puerto,mail,1
+4c8f787926fc83d6,2025-12-28T00:05:00Z,debito,1111,113.88,UYU,Kiosco 24h,mail,1
+9cdf1bc02daa1663,2025-12-29T00:21:00Z,debito,1111,787.36,UYU,Pizzería Roma,mail,1
+fa4da32d8b6ab664,2025-12-28T13:59:00Z,debito,1111,85.39,UYU,Kiosco 24h,mail,1
+6df8e3a4e3986417,2025-12-29T12:46:00Z,debito,1111,2427.84,UYU,Almacén La Esquina,mail,1
+9529ecd20795d030,2025-12-30T02:07:00Z,reembolso,1111,2427.84,UYU,Almacén La Esquina,mail,1
+1f428a29168f781b,2025-12-29T19:26:00Z,debito,1111,207.32,UYU,Kiosco 24h,mail,1
+9058e4ad1d68e41a,2025-12-30T16:03:00Z,debito,1111,1309.98,UYU,Mercado Central,mail,1
+5e3de8c874240a71,2025-12-30T16:22:00Z,debito,1111,82.28,UYU,Kiosco 24h,mail,1
+9fed98db38318f7d,2026-01-01T01:30:00Z,debito,1111,3052.71,UYU,Almacén La Esquina,mail,1
+3912709349c356c1,2026-01-01T00:06:00Z,debito,1111,870.90,UYU,Burger Lab,mail,1
+803b08732e6f5de9,2025-12-31T16:00:00Z,debito,1111,445.39,UYU,Taxi App Centro,mail,1
+37896cb63a8a5daf,2025-12-31T19:34:00Z,debito,1111,67.02,UYU,Kiosco 24h,mail,1
+e961350434a5e569,2026-01-01T11:45:00Z,debito,1111,183.91,UYU,Kiosco 24h,mail,1
+747d3b715e009b94,2026-01-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+5e8bd1cd41b8ff1c,2026-01-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+e3f948f5f034298b,2026-01-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+813ef295e248143d,2026-01-04T01:41:00Z,debito,1111,954.72,UYU,Mercado Central,mail,1
+6903aef2fa9a2113,2026-01-03T16:29:00Z,debito,1111,694.76,UYU,Sushi Corner,mail,1
+a97d57c04e46d1ee,2026-01-03T14:09:00Z,debito,1111,288.53,UYU,Óptica Visión,mail,1
+d11b754c5001a6a5,2026-01-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+dcd7e82fb197b875,2026-01-04T17:02:00Z,debito,1111,1393.47,UYU,DeliveryYa Envío,mail,1
+7f7ee711a4b96276,2026-01-04T17:03:00Z,debito,1111,455.17,UYU,Tostado Café,mail,1
+c6e1b5f93b200a01,2026-01-05T02:29:00Z,reembolso,1111,455.17,UYU,Tostado Café,mail,1
+405adb581153b51c,2026-01-06T00:55:00Z,debito,1111,807.76,UYU,Pizzería Roma,mail,1
+17397f59e28e01ad,2026-01-06T00:01:00Z,debito,1111,188.05,UYU,Tostado Café,mail,1
+b250403aec8121a0,2026-01-05T12:50:00Z,debito,1111,173.63,UYU,Kiosco 24h,mail,1
+77c47d99ebd5f233,2026-01-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+571f6370ed3964f3,2026-01-06T17:37:00Z,debito,1111,1200.49,UYU,Burger Lab,mail,1
+2d4433beb3d3b407,2026-01-06T19:13:00Z,debito,1111,326.39,UYU,Café del Puerto,mail,1
+398e933338b63e43,2026-01-06T15:56:00Z,debito,1111,92.81,UYU,Kiosco 24h,mail,1
+ef84ab6a58b1dd59,2026-01-07T23:17:00Z,debito,1111,74.74,UYU,Kiosco 24h,mail,1
+9a4ffcf21659ae5b,2026-01-09T01:41:00Z,debito,1111,99.30,UYU,Café del Puerto,mail,1
+441539951eea4f03,2026-01-10T16:29:00Z,debito,1111,562.95,UYU,Burger Lab,mail,1
+2a14ad3bffda9a8e,2026-01-10T20:56:00Z,debito,1111,525.23,UYU,Café del Puerto,mail,1
+46737ae20e0c2828,2026-01-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+cd789f33678628b9,2026-01-11T23:33:00Z,debito,1111,357.79,UYU,Sushi Corner,mail,1
+3896338fd63f2d30,2026-01-11T19:46:00Z,debito,1111,126.87,UYU,Kiosco 24h,mail,1
+4c59c187486916cb,2026-01-12T21:08:00Z,debito,1111,34.75,UYU,Kiosco 24h,mail,1
+e341f1b93c2bf672,2026-01-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+8b5196a89825ed79,2026-01-13T19:15:00Z,debito,1111,95.11,UYU,Kiosco 24h,mail,1
+f56f1ee933b05a8c,2026-01-13T23:38:00Z,debito,1111,1587.13,UYU,Bar La Plaza,mail,1
+f8d947b7e4f63878,2026-01-14T23:59:00Z,debito,1111,2335.33,UYU,Super Norte,mail,1
+a843a2c4a2b5d9f5,2026-01-15T02:43:00Z,reembolso,1111,2335.33,UYU,Super Norte,mail,1
+d2a7af919d9e23f6,2026-01-14T23:51:00Z,debito,1111,454.02,UYU,Pizzería Roma,mail,1
+6cf1fee3442791cc,2026-01-15T02:13:00Z,reembolso,1111,454.02,UYU,Pizzería Roma,mail,1
+925579f859f421c1,2026-01-14T23:27:00Z,debito,1111,297.75,UYU,Taxi App Centro,mail,1
+48ab63124af9b4b8,2026-01-14T21:01:00Z,debito,1111,184.26,UYU,Kiosco 24h,mail,1
+588d0ce563dbb00f,2026-01-14T22:06:00Z,debito,1111,586.91,UYU,Cine Plaza,mail,1
+fdf3d28942a5660b,2026-01-15T13:05:00Z,debito,1111,1108.04,UYU,Almacén La Esquina,mail,1
+8d642f77b0180701,2026-01-15T11:29:00Z,debito,1111,791.19,UYU,Taxi App Centro,mail,1
+bf01a6727b050eb7,2026-01-17T00:03:00Z,debito,1111,664.88,UYU,Super Norte,mail,1
+e9e78a9bb682f104,2026-01-17T00:28:00Z,debito,1111,365.42,UYU,Pizzería Roma,mail,1
+c4cd6c63000ea194,2026-01-17T00:48:00Z,debito,1111,72.47,UYU,Tostado Café,mail,1
+645afe80cca21754,2026-01-17T23:59:00Z,debito,1111,554.27,UYU,DeliveryYa Envío,mail,1
+8a5baa878c944444,2026-01-17T12:10:00Z,debito,1111,333.53,UYU,Óptica Visión,mail,1
+3034443ac8b0369a,2026-01-18T16:37:00Z,debito,1111,1395.70,UYU,Mercado Central,mail,1
+0cd177b6db5ab4b7,2026-01-18T23:13:00Z,debito,1111,361.96,UYU,Burger Lab,mail,1
+68ee20a574a112ca,2026-01-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+545270064b7ada26,2026-01-20T15:24:00Z,debito,1111,1101.85,UYU,Burger Lab,mail,1
+e4b287b61a1cf9e8,2026-01-20T19:15:00Z,debito,1111,208.48,UYU,Taxi App,mail,1
+b37201b7c63491a7,2026-01-20T23:39:00Z,debito,1111,142.78,UYU,Kiosco 24h,mail,1
+1fabf11b8808b8b9,2026-01-21T19:05:00Z,debito,1111,1095.79,UYU,Pizzería Roma,mail,1
+c14d65c0df8edc8d,2026-01-21T11:56:00Z,debito,1111,0.00,UYU,Taxi App (sin monto informado),mail,0
+f0f1b914b5e6e6ab,2026-01-21T14:00:00Z,debito,1111,329.43,UYU,Kiosco 24h,mail,1
+d20c86a8e3648098,2026-01-22T23:54:00Z,debito,1111,859.97,UYU,Super Norte,mail,1
+dfdb39afb58e1698,2026-01-22T20:08:00Z,debito,1111,199.32,UYU,Tostado Café,mail,1
+942ae1038becea58,2026-01-22T19:00:00Z,debito,1111,401.43,UYU,Taxi App Centro,mail,1
+4aae9b9611be6f99,2026-01-22T22:01:00Z,debito,1111,208.44,UYU,Kiosco 24h,mail,1
+57b894c414936995,2026-01-22T17:11:00Z,debito,1111,1656.36,UYU,Tienda Web,mail,1
+9d55e93f636aa181,2026-01-23T13:19:00Z,debito,1111,419.97,UYU,Óptica Visión,mail,1
+fff901863e9fb6e6,2026-01-24T13:13:00Z,debito,1111,195.83,UYU,Tostado Café,mail,1
+d568094775838a0b,2026-01-24T22:33:00Z,debito,1111,264.34,UYU,Kiosco 24h,mail,1
+0978e765665498e6,2026-01-25T11:31:00Z,debito,1111,1815.85,UYU,Super Norte,mail,1
+2b02f842f95293dc,2026-01-26T02:27:00Z,reembolso,1111,1815.85,UYU,Super Norte,mail,1
+e87c714ecc1ef0f3,2026-01-26T00:17:00Z,debito,1111,487.90,UYU,Burger Lab,mail,1
+8b43d3176e153232,2026-01-25T15:25:00Z,debito,1111,228.14,UYU,Taxi App Centro,mail,1
+356115b6dfa59fb6,2026-01-27T20:35:00Z,debito,1111,214.39,UYU,Kiosco 24h,mail,1
+5fa1f7e738672df9,2026-01-28T13:53:00Z,debito,1111,251.61,UYU,Taxi App Centro,mail,1
+1d3889690f324d68,2026-01-30T01:40:00Z,debito,1111,527.70,UYU,Burger Lab,mail,1
+4a4cde004ffc4b86,2026-01-29T19:52:00Z,debito,1111,178.66,UYU,Tostado Café,mail,1
+b00b7209c4e9b7ab,2026-01-29T14:50:00Z,debito,1111,194.40,UYU,Taxi App Centro,mail,1
+79e9462baa238834,2026-01-29T12:05:00Z,debito,1111,107.26,UYU,Kiosco 24h,mail,1
+5c140313384c8c20,2026-01-31T00:56:00Z,debito,1111,200.18,UYU,Taxi App,mail,1
+77c117a0d14cf9c1,2026-01-30T17:57:00Z,debito,1111,197.96,UYU,Kiosco 24h,mail,1
+367ffe7c6097f65c,2026-01-31T14:45:00Z,debito,1111,851.56,UYU,Burger Lab,mail,1
+f3b69f5edb074ecf,2026-01-31T23:35:00Z,debito,1111,83.33,UYU,Kiosco 24h,mail,1
+f77cdd0581b256cf,2026-02-01T22:21:00Z,debito,1111,772.08,UYU,Pizzería Roma,mail,1
+5fee88a131756590,2026-02-01T14:07:00Z,debito,1111,480.18,UYU,Taxi App Centro,mail,1
+79fd6b933cc6fbe0,2026-02-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+7dfd743e94435823,2026-02-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+224e82062126b0e0,2026-02-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+0c5536ad25d228c1,2026-02-02T21:33:00Z,debito,1111,847.35,UYU,Almacén La Esquina,mail,1
+b7cc38bff56303b3,2026-02-03T16:47:00Z,debito,1111,553.94,UYU,Óptica Visión,mail,1
+ce05a41066db3cb2,2026-02-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+31647acf96b1326f,2026-02-04T17:44:00Z,debito,1111,1589.60,UYU,Super Norte,mail,1
+3579374d3a3f0039,2026-02-05T00:39:00Z,debito,1111,786.79,UYU,Sushi Corner,mail,1
+a7f6859e3c7088ef,2026-02-04T20:11:00Z,debito,1111,75.95,UYU,Kiosco 24h,mail,1
+15e41a8107cf0530,2026-02-04T16:49:00Z,debito,1111,1537.94,UYU,Tienda Web,mail,1
+0c84dc4776db448b,2026-02-05T16:19:00Z,debito,1111,985.99,UYU,Sushi Corner,mail,1
+70fc9aeafb3bed34,2026-02-05T22:07:00Z,debito,1111,533.73,UYU,Farmacia Central,mail,1
+d718ffe2691626f7,2026-02-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+24c710e5b06bf9d1,2026-02-07T01:04:00Z,debito,1111,1300.72,UYU,Almacén La Esquina,mail,1
+d80ba60050cfcac8,2026-02-07T00:46:00Z,debito,1111,785.52,UYU,Burger Lab,mail,1
+cb166b0060cd06c7,2026-02-06T20:03:00Z,debito,1111,168.93,UYU,Taxi App,mail,1
+042ec42502665028,2026-02-06T21:15:00Z,debito,1111,139.51,UYU,Kiosco 24h,mail,1
+cb997dbfacc9323d,2026-02-07T23:13:00Z,debito,1111,168.01,UYU,DeliveryYa Envío,mail,1
+0ea0b72bdd0afc01,2026-02-07T21:25:00Z,debito,1111,124.38,UYU,Café del Puerto,mail,1
+4c529f12edf5fba3,2026-02-08T01:25:00Z,debito,1111,217.71,UYU,Taxi App,mail,1
+71c714a5068e1ce0,2026-02-07T18:50:00Z,debito,1111,95.69,UYU,Kiosco 24h,mail,1
+cea9ae0f32ea6564,2026-02-08T13:53:00Z,debito,1111,1302.69,UYU,Almacén La Esquina,mail,1
+7209e0ac1ed65581,2026-02-08T23:09:00Z,debito,1111,583.61,UYU,Pizzería Roma,mail,1
+ebddf669eca81321,2026-02-08T14:42:00Z,debito,1111,584.81,UYU,Taxi App,mail,1
+33237d1acf6c2a09,2026-02-08T21:13:00Z,debito,1111,162.61,UYU,Kiosco 24h,mail,1
+a261b84b16970a46,2026-02-09T12:40:00Z,debito,1111,1591.47,UYU,Mercado Central,mail,1
+a2fa8ee058072857,2026-02-09T16:20:00Z,debito,1111,266.05,UYU,Taxi App,mail,1
+27a1776cdc60ae4c,2026-02-09T19:49:00Z,debito,1111,233.48,UYU,Kiosco 24h,mail,1
+c25ae264c1ac864e,2026-02-10T19:59:00Z,debito,1111,319.30,UYU,DeliveryYa Envío,mail,1
+74c0858af437c50e,2026-02-10T23:07:00Z,debito,1111,55.90,UYU,Kiosco 24h,mail,1
+61a3d5fca626d6cc,2026-02-10T21:25:00Z,debito,1111,385.56,UYU,Bar La Plaza,mail,1
+a43a471a709fd442,2026-02-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+585390f04f20ee78,2026-02-12T01:22:00Z,debito,1111,1103.70,UYU,Mercado Central,mail,1
+3820e56b367b9e6d,2026-02-11T19:11:00Z,debito,1111,504.30,UYU,Sushi Corner,mail,1
+b5e93279a7bc35db,2026-02-11T11:13:00Z,debito,1111,90.46,UYU,Kiosco 24h,mail,1
+21ddc7aa20e3b305,2026-02-11T18:33:00Z,debito,1111,573.59,UYU,Cine Plaza,mail,1
+baabf013ba55728c,2026-02-12T19:16:00Z,debito,1111,231.20,UYU,Taxi App Centro,mail,1
+05b437b59864309c,2026-02-12T19:52:00Z,debito,1111,152.82,UYU,Kiosco 24h,mail,1
+c1b57376b54b587e,2026-02-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+418f983ac19753d1,2026-02-14T01:45:00Z,debito,1111,277.00,UYU,Taxi App,mail,1
+82a7eb834a719254,2026-02-13T11:00:00Z,debito,1111,932.03,UYU,Bar La Plaza,mail,1
+301be9981bb93e73,2026-02-15T01:48:00Z,debito,1111,1795.36,UYU,Burger Lab,mail,1
+e9772b2bbff9ca11,2026-02-14T13:19:00Z,debito,1111,183.83,UYU,Café del Puerto,mail,1
+47e63770de9cb153,2026-02-15T20:31:00Z,debito,1111,130.45,UYU,Tostado Café,mail,1
+46c0c252cb63fc43,2026-02-15T15:48:00Z,debito,1111,866.04,UYU,Bar La Plaza,mail,1
+9ad09c1137ef32be,2026-02-16T02:44:00Z,reembolso,1111,866.04,UYU,Bar La Plaza,mail,1
+492c42cc1845f872,2026-02-16T18:57:00Z,debito,1111,107.23,UYU,Café del Puerto,mail,1
+41fdc3f02c54e990,2026-02-16T11:00:00Z,debito,1111,130.16,UYU,Taxi App Centro,mail,1
+b1895aaa7548c8f1,2026-02-16T20:26:00Z,debito,1111,66.55,UYU,Kiosco 24h,mail,1
+7694e99387d55333,2026-02-17T20:39:00Z,debito,1111,185.78,UYU,Kiosco 24h,mail,1
+ed7680e4173a47b7,2026-02-17T20:29:00Z,debito,1111,504.52,UYU,Bar La Plaza,mail,1
+ae61abea72cf4c34,2026-02-18T23:09:00Z,debito,1111,571.44,UYU,Pizzería Roma,mail,1
+4b0233ac29d5722a,2026-02-18T12:48:00Z,debito,1111,98.39,UYU,Kiosco 24h,mail,1
+617f6995a56b23e3,2026-02-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+2d3283f05d0881a6,2026-02-19T22:24:00Z,debito,1111,706.96,UYU,Burger Lab,mail,1
+a20c2ad2b4e1655b,2026-02-19T13:04:00Z,debito,1111,69.38,UYU,Kiosco 24h,mail,1
+a4d7f9b82349e35e,2026-02-19T12:07:00Z,debito,1111,613.34,UYU,Farmacia Central,mail,1
+523f60707a936e77,2026-02-21T11:37:00Z,debito,1111,882.80,UYU,Sushi Corner,mail,1
+a0f0e9f1cb71c475,2026-02-21T20:14:00Z,debito,1111,410.37,UYU,Taxi App,mail,1
+dae314db4055f915,2026-02-21T14:26:00Z,debito,1111,147.23,UYU,Kiosco 24h,mail,1
+780a36b9a868d967,2026-02-21T12:33:00Z,debito,1111,1055.36,UYU,Cine Plaza,mail,1
+ba29b802987ed2f0,2026-02-22T23:51:00Z,debito,1111,684.12,UYU,Pizzería Roma,mail,1
+e91f4afd60678f17,2026-02-23T01:40:00Z,debito,1111,549.98,UYU,Taxi App Centro,mail,1
+4b34cc1983286447,2026-02-23T21:27:00Z,debito,1111,2247.40,UYU,Super Norte,mail,1
+aa3efe241ab499fc,2026-02-24T20:22:00Z,debito,1111,1295.51,UYU,Mercado Central,mail,1
+a4bac6239e14e95c,2026-02-24T17:02:00Z,debito,1111,758.28,UYU,Taxi App Centro,mail,1
+cef21ddd8d875527,2026-02-24T23:40:00Z,debito,1111,128.46,UYU,Kiosco 24h,mail,1
+430d4610b7706c32,2026-02-25T19:34:00Z,debito,1111,535.15,UYU,Pizzería Roma,mail,1
+b8e9ab8b4195e8c7,2026-02-25T15:18:00Z,debito,1111,458.62,UYU,Taxi App,mail,1
+5065b4f40c7ade47,2026-02-26T14:24:00Z,debito,1111,2206.01,UYU,Super Norte,mail,1
+79afec13daad310b,2026-02-26T18:38:00Z,debito,1111,1372.29,UYU,Pizzería Roma,mail,1
+fc5394ff313ff646,2026-02-26T20:06:00Z,debito,1111,252.35,UYU,Café del Puerto,mail,1
+5b1b724509bf9c98,2026-02-26T12:41:00Z,debito,1111,141.32,UYU,Taxi App Centro,mail,1
+a332fc4b490473f6,2026-02-27T00:12:00Z,debito,1111,202.39,UYU,Kiosco 24h,mail,1
+ff7f815243297d81,2026-02-28T22:15:00Z,debito,1111,132.18,UYU,Café del Puerto,mail,1
+c28c777125d3eedf,2026-02-28T14:58:00Z,debito,1111,366.34,UYU,Taxi App Centro,mail,1
+f5d44cb03a30b36e,2026-03-02T00:41:00Z,debito,1111,0.00,UYU,Super Norte (sin monto informado),mail,0
+8898c43f21aa5c48,2026-03-01T23:27:00Z,debito,1111,1018.20,UYU,Sushi Corner,mail,1
+ea33b9b24d7a2e3d,2026-03-01T14:18:00Z,debito,1111,292.54,UYU,Kiosco 24h,mail,1
+24f0269ab9a550e1,2026-03-01T12:38:00Z,debito,1111,853.91,UYU,Bar La Plaza,mail,1
+a6cb96f8811ba691,2026-03-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+f0f1a4c38b64a4ca,2026-03-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+f5535e188d126fb1,2026-03-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+867968baec436590,2026-03-02T15:56:00Z,debito,1111,990.27,UYU,Almacén La Esquina,mail,1
+742d1e2837c2ef7f,2026-03-02T12:43:00Z,debito,1111,1074.90,UYU,Pizzería Roma,mail,1
+8346277f0e15ab77,2026-03-02T11:41:00Z,debito,1111,161.26,UYU,Kiosco 24h,mail,1
+a6fc17ef3721bdbb,2026-03-03T23:19:00Z,debito,1111,270.37,UYU,Kiosco 24h,mail,1
+c499f53a34b110c6,2026-03-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+b8479098a24a96c7,2026-03-05T01:17:00Z,debito,1111,1000.41,UYU,Óptica Visión,mail,1
+286c3a778e44e51a,2026-03-05T14:43:00Z,debito,1111,1143.39,UYU,Mercado Central,mail,1
+1edb7f0d487bb019,2026-03-06T01:39:00Z,debito,1111,783.42,UYU,Pizzería Roma,mail,1
+1151cd9b10831ac8,2026-03-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+df17dd8f0606078c,2026-03-06T11:34:00Z,debito,1111,344.06,UYU,Sushi Corner,mail,1
+e14a1cf601792eae,2026-03-06T17:59:00Z,debito,1111,205.04,UYU,Kiosco 24h,mail,1
+0cc0b4c6df4f5f02,2026-03-06T15:10:00Z,debito,1111,2114.01,UYU,Cine Plaza,mail,1
+b600f29ebc7a7107,2026-03-07T22:28:00Z,debito,1111,0.00,UYU,Kiosco 24h (sin monto informado),mail,0
+c385c9716a7f1587,2026-03-08T21:08:00Z,debito,1111,90.57,UYU,Kiosco 24h,mail,1
+caa506bf42992eb4,2026-03-09T22:18:00Z,debito,1111,785.33,UYU,Mercado Central,mail,1
+14bc7f247b085a82,2026-03-09T17:30:00Z,debito,1111,319.69,UYU,Tostado Café,mail,1
+1ed6a0492fe69eb8,2026-03-09T21:35:00Z,debito,1111,174.40,UYU,Kiosco 24h,mail,1
+2e1810895ab0e4cc,2026-03-10T23:58:00Z,debito,1111,609.62,UYU,Burger Lab,mail,1
+7e0cbd3482d06d37,2026-03-10T23:47:00Z,debito,1111,541.61,UYU,Taxi App Centro,mail,1
+ef9aa2683421e51d,2026-03-10T21:27:00Z,debito,1111,129.82,UYU,Kiosco 24h,mail,1
+67bbd4ca75f6b8fb,2026-03-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+106d1bf16f6205bc,2026-03-13T01:45:00Z,debito,1111,888.07,UYU,Super Norte,mail,1
+6bb0f38307d06de1,2026-03-12T14:22:00Z,debito,1111,195.82,UYU,Tostado Café,mail,1
+d83d0cccf062874f,2026-03-12T18:20:00Z,debito,1111,204.59,UYU,Kiosco 24h,mail,1
+21d8f1d9b7e987c0,2026-03-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+fed981254235a3fd,2026-03-14T01:19:00Z,debito,1111,892.39,UYU,Super Norte,mail,1
+712573f3b788b1f8,2026-03-14T00:45:00Z,debito,1111,397.09,UYU,Burger Lab,mail,1
+f1d7b1fcbc5d20d4,2026-03-13T22:24:00Z,debito,1111,0.00,UYU,Kiosco 24h (sin monto informado),mail,0
+55390696ebaa9f42,2026-03-13T16:36:00Z,debito,1111,1802.08,UYU,Tienda Web,mail,1
+e9daf1cce70e40bd,2026-03-14T18:30:00Z,debito,1111,18900.00,UYU,Electro Hogar,mail,1
+a96339ffe880506d,2026-03-15T20:56:00Z,debito,1111,972.41,UYU,Super Norte,mail,1
+f5868f8b62a4fa5d,2026-03-15T19:37:00Z,debito,1111,405.36,UYU,Pizzería Roma,mail,1
+3ab1afccee73efce,2026-03-16T00:02:00Z,debito,1111,105.19,UYU,Tostado Café,mail,1
+ce358d734e002378,2026-03-16T01:07:00Z,debito,1111,256.41,UYU,Taxi App Centro,mail,1
+e8d5ae5fbce9dcfd,2026-03-15T17:06:00Z,debito,1111,926.30,UYU,Cine Plaza,mail,1
+0742c155dfe562b0,2026-03-16T17:08:00Z,debito,1111,602.13,UYU,Mercado Central,mail,1
+35a9a3b2514aa6f5,2026-03-16T19:01:00Z,debito,1111,532.79,UYU,Pizzería Roma,mail,1
+3e01b291c1c68cce,2026-03-16T12:33:00Z,debito,1111,106.51,UYU,Kiosco 24h,mail,1
+632ba1003fa27fd8,2026-03-17T19:49:00Z,debito,1111,240.49,UYU,Tostado Café,mail,1
+b9d30bbe66c31baf,2026-03-17T14:36:00Z,debito,1111,179.07,UYU,Taxi App,mail,1
+a207f1e2936ca633,2026-03-18T13:39:00Z,debito,1111,718.68,UYU,Almacén La Esquina,mail,1
+0841309ba1dd8358,2026-03-18T14:07:00Z,debito,1111,401.27,UYU,Sushi Corner,mail,1
+f7a2f4197c24f7b9,2026-03-18T21:14:00Z,debito,1111,277.47,UYU,Café del Puerto,mail,1
+e912aff41209712d,2026-03-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+c9bb972e28e1a1b6,2026-03-19T16:40:00Z,debito,1111,237.93,UYU,Taxi App,mail,1
+59ea461cc54fb517,2026-03-20T23:08:00Z,debito,1111,505.41,UYU,Sushi Corner,mail,1
+d3de4bf8e84de456,2026-03-20T21:40:00Z,debito,1111,213.36,UYU,Café del Puerto,mail,1
+7b98f7c3d7a873b9,2026-03-20T17:44:00Z,debito,1111,183.06,UYU,Taxi App Centro,mail,1
+5a0266855a03ba61,2026-03-20T16:31:00Z,debito,1111,1726.82,UYU,Tienda Web,mail,1
+0407851ecb85398e,2026-03-21T13:09:00Z,debito,1111,155.62,UYU,Kiosco 24h,mail,1
+525536c63780f061,2026-03-21T11:28:00Z,debito,1111,1832.83,UYU,Tienda Web,mail,1
+de0213e85e180ef3,2026-03-22T15:06:00Z,debito,1111,728.27,UYU,Mercado Central,mail,1
+dca85c424eb80a7f,2026-03-23T01:35:00Z,debito,1111,468.74,UYU,Bar La Plaza,mail,1
+ee65d91f35d8aadb,2026-03-23T14:00:00Z,debito,1111,518.53,UYU,Burger Lab,mail,1
+ded0d9456f1140b3,2026-03-23T19:18:00Z,debito,1111,548.76,UYU,Taxi App Centro,mail,1
+f2e7e543adb72096,2026-03-23T16:19:00Z,debito,1111,263.72,UYU,Kiosco 24h,mail,1
+3e131b901669513a,2026-03-24T20:28:00Z,debito,1111,169.24,UYU,Kiosco 24h,mail,1
+e5943e1c683ce8ab,2026-03-24T11:36:00Z,debito,1111,418.03,UYU,Farmacia Central,mail,1
+4197166e531e3a84,2026-03-25T16:40:00Z,debito,1111,1463.91,UYU,Super Norte,mail,1
+2269280dda666339,2026-03-25T18:03:00Z,debito,1111,649.73,UYU,Pizzería Roma,mail,1
+bf26fcfb6e50e957,2026-03-25T14:30:00Z,debito,1111,177.64,UYU,Kiosco 24h,mail,1
+b2b04330613667b6,2026-03-26T13:03:00Z,debito,1111,0.00,UYU,Mercado Central (sin monto informado),mail,0
+e50b675df13475de,2026-03-27T20:03:00Z,debito,1111,541.82,UYU,DeliveryYa Envío,mail,1
+ac32ca7091edb0ba,2026-03-27T22:13:00Z,debito,1111,131.05,UYU,Café del Puerto,mail,1
+7e4dfb4d526fa52d,2026-03-28T11:42:00Z,debito,1111,530.29,UYU,Pizzería Roma,mail,1
+06f36a9c0f307832,2026-03-29T02:45:00Z,reembolso,1111,530.29,UYU,Pizzería Roma,mail,1
+e1eeb77fe827012c,2026-03-28T23:37:00Z,debito,1111,215.73,UYU,Kiosco 24h,mail,1
+cbe620083728421a,2026-03-29T19:16:00Z,debito,1111,74.02,UYU,Kiosco 24h,mail,1
+d5b325262f0e30ea,2026-03-31T00:41:00Z,debito,1111,1800.46,UYU,Almacén La Esquina,mail,1
+b7de29d0642b6073,2026-03-31T15:58:00Z,debito,1111,190.09,UYU,Taxi App Centro,mail,1
+08e5aee06a1d8d55,2026-03-31T15:36:00Z,debito,1111,738.14,UYU,Farmacia Central,mail,1
+84b80cb8572f2652,2026-03-31T15:58:00Z,debito,1111,647.37,UYU,Cine Plaza,mail,1
+91610f8e5a024292,2026-04-01T11:00:00Z,debito,1111,1281.18,UYU,Mercado Central,mail,1
+e31806e9e99cd1a8,2026-04-01T23:45:00Z,debito,1111,595.91,UYU,DeliveryYa Envío,mail,1
+31e4ad3f6e0a0dc5,2026-04-02T01:37:00Z,debito,1111,255.37,UYU,Tostado Café,mail,1
+046aded2dacf53c3,2026-04-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+a318d0d11e4251ae,2026-04-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+fc996b0090aa8e61,2026-04-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+12252470b5b5acea,2026-04-02T16:39:00Z,debito,1111,1074.11,UYU,Almacén La Esquina,mail,1
+48b71187b92b0c6a,2026-04-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+dcde7e6f0a008c05,2026-04-04T17:53:00Z,debito,1111,735.90,UYU,Mercado Central,mail,1
+ccee42b51258a575,2026-04-04T19:02:00Z,debito,1111,529.05,UYU,Burger Lab,mail,1
+379cd9bdf456ed29,2026-04-04T20:04:00Z,debito,1111,358.92,UYU,Café del Puerto,mail,1
+c8510dc1123f297f,2026-04-06T01:55:00Z,debito,1111,1506.31,UYU,Super Norte,mail,1
+95476cf1edae20ac,2026-04-05T16:36:00Z,debito,1111,445.56,UYU,Taxi App,mail,1
+436be2bff0549d4a,2026-04-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+b9061c1e465b5bcb,2026-04-06T22:35:00Z,debito,1111,1259.08,UYU,Mercado Central,mail,1
+c47cca98bc4d6103,2026-04-08T21:29:00Z,debito,1111,49.44,UYU,Kiosco 24h,mail,1
+b45e099567f0a807,2026-04-09T17:50:00Z,debito,1111,1001.99,UYU,Super Norte,mail,1
+07426572858208bb,2026-04-09T14:27:00Z,debito,1111,109.59,UYU,Café del Puerto,mail,1
+96015e5401a4e1df,2026-04-09T14:26:00Z,debito,1111,313.74,UYU,Taxi App,mail,1
+c7de9aaf9fe26c04,2026-04-10T12:07:00Z,debito,1111,1139.53,UYU,Mercado Central,mail,1
+18dab908ba67762a,2026-04-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+502fabfd70cde7b1,2026-04-11T14:52:00Z,debito,1111,614.60,UYU,Mercado Central,mail,1
+02b5f442654358aa,2026-04-11T23:18:00Z,debito,1111,486.35,UYU,Sushi Corner,mail,1
+b541f84f360c0641,2026-04-12T14:18:00Z,debito,1111,1421.26,UYU,Pizzería Roma,mail,1
+b8577721afa7cc18,2026-04-12T12:50:00Z,debito,1111,281.79,UYU,Taxi App,mail,1
+95d7c9d4f185f1eb,2026-04-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+96a125a8f1f844e2,2026-04-13T12:39:00Z,debito,1111,1861.40,UYU,Super Norte,mail,1
+a827376ce731c142,2026-04-13T21:41:00Z,debito,1111,156.74,UYU,Kiosco 24h,mail,1
+bb64fc4f30e9b272,2026-04-13T23:57:00Z,debito,1111,416.39,UYU,Farmacia Central,mail,1
+11ac825de22739e2,2026-04-14T15:24:00Z,debito,1111,2154.58,UYU,Almacén La Esquina,mail,1
+3273bc31f676117e,2026-04-14T18:54:00Z,debito,1111,419.77,UYU,Óptica Visión,mail,1
+c03143382132a108,2026-04-15T19:42:00Z,debito,1111,88.83,UYU,Kiosco 24h,mail,1
+7b1855622857d81f,2026-04-17T01:07:00Z,debito,1111,2248.23,UYU,Super Norte,mail,1
+969d5bccf291e042,2026-04-16T14:42:00Z,debito,1111,997.56,UYU,Burger Lab,mail,1
+365ede07b4860bb1,2026-04-16T17:33:00Z,debito,1111,150.28,UYU,Café del Puerto,mail,1
+f0f582060e8f393f,2026-04-16T23:46:00Z,debito,1111,302.02,UYU,Kiosco 24h,mail,1
+0ee811009d615aec,2026-04-18T00:01:00Z,debito,1111,1469.49,UYU,Super Norte,mail,1
+cc81b2f8c02dfcb3,2026-04-17T12:19:00Z,debito,1111,134.74,UYU,Café del Puerto,mail,1
+efd77128a21e61ff,2026-04-17T18:09:00Z,debito,1111,1289.76,UYU,Tienda Web,mail,1
+c8069e34c7b9460a,2026-04-18T23:28:00Z,debito,1111,143.37,UYU,Café del Puerto,mail,1
+67c18e005aa0dc00,2026-04-18T13:34:00Z,debito,1111,218.65,UYU,Kiosco 24h,mail,1
+0ff0a7896becafcd,2026-04-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+a23a460c17fb4761,2026-04-19T12:29:00Z,debito,1111,1130.53,UYU,Super Norte,mail,1
+d2993de741628df1,2026-04-19T12:17:00Z,debito,1111,1380.46,UYU,Sushi Corner,mail,1
+6069e6456d5e8519,2026-04-19T22:37:00Z,debito,1111,283.45,UYU,Café del Puerto,mail,1
+5ca6aa3bbba93f83,2026-04-19T20:46:00Z,debito,1111,77.92,UYU,Kiosco 24h,mail,1
+c04941c7e15dafeb,2026-04-19T15:37:00Z,debito,1111,792.16,UYU,Cine Plaza,mail,1
+7a2ff677dca7be62,2026-04-20T20:56:00Z,debito,1111,3924.17,UYU,Almacén La Esquina,mail,1
+a7c0f1574f580cf1,2026-04-20T15:08:00Z,debito,1111,251.21,UYU,Taxi App,mail,1
+a138ab5353eef667,2026-04-20T20:54:00Z,debito,1111,284.94,UYU,Kiosco 24h,mail,1
+de4d371c542fcb4b,2026-04-21T18:07:00Z,debito,1111,1678.92,UYU,Tienda Web,mail,1
+4442990eb26ee39d,2026-04-22T20:09:00Z,debito,1111,1665.82,UYU,Almacén La Esquina,mail,1
+260ea740622e0919,2026-04-22T15:50:00Z,debito,1111,456.54,UYU,Burger Lab,mail,1
+b41728601c4eead7,2026-04-22T18:58:00Z,debito,1111,418.12,UYU,Taxi App,mail,1
+f5a37fa0b7f31104,2026-04-22T19:25:00Z,debito,1111,67.48,UYU,Kiosco 24h,mail,1
+9862527074de947c,2026-04-22T19:24:00Z,debito,1111,659.63,UYU,Bar La Plaza,mail,1
+5c70580446ffd21e,2026-04-23T22:39:00Z,debito,1111,1125.04,UYU,Almacén La Esquina,mail,1
+6851daf35e51689c,2026-04-23T12:57:00Z,debito,1111,595.66,UYU,Taxi App,mail,1
+b7048760af875f36,2026-04-24T20:44:00Z,debito,1111,1330.28,UYU,Almacén La Esquina,mail,1
+a397945499ffa65a,2026-04-25T23:24:00Z,debito,1111,1084.43,UYU,Sushi Corner,mail,1
+ae8d02ca55f3f2ca,2026-04-25T11:47:00Z,debito,1111,289.15,UYU,Taxi App,mail,1
+07422c30f1df348e,2026-04-25T19:38:00Z,debito,1111,611.70,UYU,Cine Plaza,mail,1
+5628bded7d85670f,2026-04-26T11:50:00Z,debito,1111,805.54,UYU,Super Norte,mail,1
+41a37cdfa6dfbe50,2026-04-26T14:28:00Z,debito,1111,449.68,UYU,Pizzería Roma,mail,1
+8eb1e0e5a423b195,2026-04-28T00:30:00Z,debito,1111,1216.51,UYU,Mercado Central,mail,1
+1d9d74ab8056c505,2026-04-28T00:05:00Z,debito,1111,596.21,UYU,Pizzería Roma,mail,1
+24519d0bae059421,2026-04-27T14:10:00Z,debito,1111,1052.08,UYU,Taxi App,mail,1
+8736b75c874ef86e,2026-04-28T15:18:00Z,debito,1111,863.00,UYU,DeliveryYa Envío,mail,1
+3c1d47354dc49e54,2026-04-29T15:39:00Z,debito,1111,232.95,UYU,Taxi App Centro,mail,1
+3b28dfeb21b68e35,2026-04-30T20:58:00Z,debito,1111,589.75,UYU,Sushi Corner,mail,1
+e32af6d6ae5e57c1,2026-04-30T20:28:00Z,debito,1111,147.76,UYU,Kiosco 24h,mail,1
+a5a33a701e700e73,2026-05-01T18:45:00Z,debito,1111,510.14,UYU,Sushi Corner,mail,1
+9d8b2589c15dec80,2026-05-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+7dcafbe5f83e90a1,2026-05-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+aeb63d68e14662fa,2026-05-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+4c0e3ac830f5429b,2026-05-02T15:14:00Z,debito,1111,801.94,UYU,Almacén La Esquina,mail,1
+db41b1f6c593d015,2026-05-02T23:16:00Z,debito,1111,954.00,UYU,DeliveryYa Envío,mail,1
+322565ef81c13691,2026-05-03T01:11:00Z,debito,1111,102.07,UYU,Taxi App Centro,mail,1
+62ef639713a42ebd,2026-05-03T23:19:00Z,debito,1111,1077.42,UYU,Almacén La Esquina,mail,1
+c18252a703944804,2026-05-03T22:05:00Z,debito,1111,190.77,UYU,Kiosco 24h,mail,1
+4f7f5d97d1120133,2026-05-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+84d812922c126558,2026-05-04T16:53:00Z,debito,1111,2833.90,UYU,Almacén La Esquina,mail,1
+dc8eb046710a0c2b,2026-05-04T13:46:00Z,debito,1111,1301.77,UYU,DeliveryYa Envío,mail,1
+fda22e3fa9bbf914,2026-05-04T18:37:00Z,debito,1111,265.38,UYU,Tostado Café,mail,1
+b55b0d83b5880e8c,2026-05-04T14:17:00Z,debito,1111,276.33,UYU,Taxi App,mail,1
+b76d989fcc02730c,2026-05-04T23:35:00Z,debito,1111,107.54,UYU,Kiosco 24h,mail,1
+1d7f0e1931d4cefa,2026-05-04T21:50:00Z,debito,1111,593.08,UYU,Óptica Visión,mail,1
+c3514e1df5223d0c,2026-05-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+161d4bd3472c4423,2026-05-07T00:50:00Z,debito,1111,1032.13,UYU,Almacén La Esquina,mail,1
+cdef4a89c4bbff3d,2026-05-06T22:10:00Z,debito,1111,314.86,UYU,DeliveryYa Envío,mail,1
+072b167c8bef9897,2026-05-06T17:48:00Z,debito,1111,231.05,UYU,Café del Puerto,mail,1
+93a16916543833e8,2026-05-07T17:54:00Z,debito,1111,152.97,UYU,Taxi App,mail,1
+4510ee66d1ae4457,2026-05-08T20:48:00Z,debito,1111,419.63,UYU,DeliveryYa Envío,mail,1
+a4564750ac7b0d47,2026-05-08T19:21:00Z,debito,1111,166.46,UYU,Taxi App Centro,mail,1
+3b516a399e9ee0cb,2026-05-09T01:37:00Z,debito,1111,52.80,UYU,Kiosco 24h,mail,1
+0eaab33660e8850f,2026-05-08T16:14:00Z,debito,1111,1174.24,UYU,Tienda Web,mail,1
+0da442a79e8921d7,2026-05-09T22:00:00Z,debito,1111,576.31,UYU,Burger Lab,mail,1
+0cdd0a71c185b83d,2026-05-09T14:36:00Z,debito,1111,216.83,UYU,Tostado Café,mail,1
+44261e7ed778766d,2026-05-10T00:26:00Z,debito,1111,181.52,UYU,Taxi App Centro,mail,1
+6e03bd6df1d6ca96,2026-05-09T12:04:00Z,debito,1111,105.65,UYU,Kiosco 24h,mail,1
+a3b639d37b25684e,2026-05-09T15:31:00Z,debito,1111,987.66,UYU,Bar La Plaza,mail,1
+709ee682f0d12f7d,2026-05-10T11:02:00Z,debito,1111,2273.81,UYU,Super Norte,mail,1
+e878815c32253f69,2026-05-10T18:22:00Z,debito,1111,831.70,UYU,Burger Lab,mail,1
+4bc58791cb97efae,2026-05-10T18:28:00Z,debito,1111,318.65,UYU,Taxi App,mail,1
+a48ef82bf4262c21,2026-05-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+883c76c20764ffc1,2026-05-11T17:04:00Z,debito,1111,918.34,UYU,Almacén La Esquina,mail,1
+acfad968bc0af0e9,2026-05-11T16:24:00Z,debito,1111,345.93,UYU,Sushi Corner,mail,1
+281ea1c1d1b314cc,2026-05-12T00:17:00Z,debito,1111,244.66,UYU,Taxi App Centro,mail,1
+768ad11df5e0a04e,2026-05-12T01:14:00Z,debito,1111,212.25,UYU,Kiosco 24h,mail,1
+96ba6344310ce9d3,2026-05-11T16:48:00Z,debito,1111,1983.13,UYU,Tienda Web,mail,1
+2bf2cdbfc150f1eb,2026-05-12T20:58:00Z,debito,1111,564.77,UYU,Super Norte,mail,1
+e27443f7b432915e,2026-05-12T22:48:00Z,debito,1111,385.18,UYU,Burger Lab,mail,1
+ab366bd405fedeb7,2026-05-13T01:31:00Z,debito,1111,362.27,UYU,Taxi App,mail,1
+c1662e735af7b4e2,2026-05-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+43987f50d5dbb957,2026-05-13T21:00:00Z,debito,1111,116.42,UYU,Café del Puerto,mail,1
+201289c23cf6ff63,2026-05-13T21:30:00Z,debito,1111,164.09,UYU,Kiosco 24h,mail,1
+3e83b1b4d4700ab2,2026-05-14T19:47:00Z,debito,1111,618.33,UYU,Pizzería Roma,mail,1
+0782e95a7d33bf07,2026-05-15T22:32:00Z,debito,1111,1340.84,UYU,Mercado Central,mail,1
+0a945b9e9a524511,2026-05-15T22:45:00Z,debito,1111,601.68,UYU,Pizzería Roma,mail,1
+59104ca3bb15bc62,2026-05-15T13:19:00Z,debito,1111,416.42,UYU,Taxi App Centro,mail,1
+fe02a90d64d1d642,2026-05-15T12:57:00Z,debito,1111,238.64,UYU,Kiosco 24h,mail,1
+0590ade5e25bc262,2026-05-15T21:23:00Z,debito,1111,1105.95,UYU,Cine Plaza,mail,1
+dba1b0141476bd4b,2026-05-16T14:35:00Z,debito,1111,895.47,UYU,DeliveryYa Envío,mail,1
+c87fd78ebcf2866d,2026-05-16T23:53:00Z,debito,1111,264.49,UYU,Café del Puerto,mail,1
+ac712a0f909c1cbb,2026-05-17T21:04:00Z,debito,1111,949.56,UYU,Pizzería Roma,mail,1
+a49cfd4b4d38f249,2026-05-17T22:54:00Z,debito,1111,201.98,UYU,Tostado Café,mail,1
+e182dcc2ddf98559,2026-05-17T21:53:00Z,debito,1111,1308.01,UYU,Tienda Web,mail,1
+db5c6419bcfc3301,2026-05-18T22:37:00Z,debito,1111,538.15,UYU,DeliveryYa Envío,mail,1
+b313723b1425ea35,2026-05-18T18:41:00Z,debito,1111,792.74,UYU,Taxi App Centro,mail,1
+9d7bdcd0cacd2797,2026-05-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+d5149ecb32e566f2,2026-05-19T14:19:00Z,debito,1111,184.59,UYU,Kiosco 24h,mail,1
+e0e225aaf1d066d2,2026-05-19T15:16:00Z,debito,1111,1133.67,UYU,Cine Plaza,mail,1
+0db02938bbe280ab,2026-05-20T16:08:00Z,debito,1111,1201.89,UYU,DeliveryYa Envío,mail,1
+d7e87bc5eda71c0f,2026-05-21T21:49:00Z,debito,1111,601.65,UYU,Pizzería Roma,mail,1
+531f16a4eb655f85,2026-05-21T16:41:00Z,debito,1111,221.88,UYU,Café del Puerto,mail,1
+9e9fa7b66871ca1f,2026-05-22T01:04:00Z,debito,1111,171.47,UYU,Taxi App Centro,mail,1
+668e436bed559f88,2026-05-21T19:54:00Z,debito,1111,83.24,UYU,Kiosco 24h,mail,1
+dccc8d2bde773f43,2026-05-23T00:54:00Z,debito,1111,646.37,UYU,Sushi Corner,mail,1
+cfff916c1ce8a1e0,2026-05-22T21:48:00Z,debito,1111,213.81,UYU,Café del Puerto,mail,1
+6405ad71c5ba0051,2026-05-22T12:48:00Z,debito,1111,765.96,UYU,Taxi App,mail,1
+8de447c3f5c155d8,2026-05-24T14:16:00Z,debito,1111,483.69,UYU,Sushi Corner,mail,1
+0650e3b255b51cf4,2026-05-24T22:50:00Z,debito,1111,255.50,UYU,Café del Puerto,mail,1
+a2344bdf6aaf87d3,2026-05-25T00:31:00Z,debito,1111,196.83,UYU,Taxi App Centro,mail,1
+d4931bf392a933e7,2026-05-25T22:48:00Z,debito,1111,127.81,UYU,Kiosco 24h,mail,1
+c2922b794a65d1f6,2026-05-26T20:09:00Z,debito,1111,179.62,UYU,Tostado Café,mail,1
+91fd1bcfb22c4aa3,2026-05-27T17:49:00Z,debito,1111,172.32,UYU,Taxi App,mail,1
+d663f45d6ddff469,2026-05-28T18:30:00Z,debito,1111,434.95,UYU,Sushi Corner,mail,1
+2074ba98948678fe,2026-05-28T18:09:00Z,debito,1111,280.76,UYU,Taxi App Centro,mail,1
+f4d96067dc0d6882,2026-05-29T22:17:00Z,debito,1111,339.59,UYU,Taxi App Centro,mail,1
+84e09440f97db078,2026-05-31T00:38:00Z,debito,1111,162.06,UYU,Kiosco 24h,mail,1
+c8f84c371bf080f4,2026-05-31T17:01:00Z,debito,1111,515.34,UYU,Sushi Corner,mail,1
+6ff975527ad7fa6a,2026-05-31T20:20:00Z,debito,1111,101.76,UYU,Café del Puerto,mail,1
+f30c47c74fe46add,2026-05-31T23:23:00Z,debito,1111,280.23,UYU,Taxi App Centro,mail,1
+7effc85dd15504f2,2026-05-31T22:40:00Z,debito,1111,105.78,UYU,Kiosco 24h,mail,1
+59d1495b172bf1ff,2026-05-31T15:39:00Z,debito,1111,606.59,UYU,Óptica Visión,mail,1
+7abf3ad1d08d52cd,2026-05-31T13:02:00Z,debito,1111,626.66,UYU,Bar La Plaza,mail,1
+51ee48d6a9624348,2026-06-01T23:25:00Z,debito,1111,1751.14,UYU,Almacén La Esquina,mail,1
+9c0021cb8d58474f,2026-06-01T21:33:00Z,debito,1111,611.40,UYU,Sushi Corner,mail,1
+3704be32a37fc51c,2026-06-01T23:55:00Z,debito,1111,137.08,UYU,Tostado Café,mail,1
+adb293f9b89155a0,2026-06-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+12bc75f51d540362,2026-06-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+49386743943b1b30,2026-06-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+5453a0cac688f761,2026-06-02T16:24:00Z,debito,1111,1378.52,UYU,Super Norte,mail,1
+230d5d5c000e90cd,2026-06-02T22:42:00Z,debito,1111,529.03,UYU,Pizzería Roma,mail,1
+0817ff49dcd764ce,2026-06-03T01:08:00Z,debito,1111,77.93,UYU,Tostado Café,mail,1
+28780fe830f62ed2,2026-06-03T13:10:00Z,debito,1111,867.78,UYU,Almacén La Esquina,mail,1
+2b4f2b5bdb38c911,2026-06-03T18:02:00Z,debito,1111,101.32,UYU,Kiosco 24h,mail,1
+f6db44fa8a855c41,2026-06-03T12:06:00Z,debito,1111,457.13,UYU,Farmacia Central,mail,1
+571f3d17a3e23c94,2026-06-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+baea55ae8a767cb5,2026-06-04T22:59:00Z,debito,1111,1569.32,UYU,Almacén La Esquina,mail,1
+46e03c3ab386016b,2026-06-04T18:14:00Z,debito,1111,617.87,UYU,Burger Lab,mail,1
+b046117058de02e9,2026-06-04T11:11:00Z,debito,1111,172.96,UYU,Café del Puerto,mail,1
+f83a19754ae1ff32,2026-06-04T21:36:00Z,debito,1111,312.30,UYU,Taxi App Centro,mail,1
+b1999ca8cfc3fd72,2026-06-04T14:12:00Z,debito,1111,75.25,UYU,Kiosco 24h,mail,1
+a175095199eb3652,2026-06-05T13:54:00Z,debito,1111,210.39,UYU,Tostado Café,mail,1
+f01f299d7615875d,2026-06-05T16:57:00Z,debito,1111,191.55,UYU,Kiosco 24h,mail,1
+2585b1c2d9d7ce9d,2026-06-05T15:59:00Z,debito,1111,3735.48,UYU,Tienda Web,mail,1
+9e601cbad2a51195,2026-06-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+ae7811ef1d4e605a,2026-06-07T00:03:00Z,debito,1111,83.75,UYU,Kiosco 24h,mail,1
+109bd1104b75baa0,2026-06-08T01:21:00Z,debito,1111,871.72,UYU,Mercado Central,mail,1
+17cf8812804525cb,2026-06-07T22:52:00Z,debito,1111,883.12,UYU,Sushi Corner,mail,1
+0ec61b0a8c323a18,2026-06-07T20:58:00Z,debito,1111,654.76,UYU,Taxi App,mail,1
+f00f59dc8a7bc89e,2026-06-07T22:42:00Z,debito,1111,121.78,UYU,Kiosco 24h,mail,1
+9206af806b27ae53,2026-06-07T18:01:00Z,debito,1111,668.72,UYU,Óptica Visión,mail,1
+3a212e55aa876636,2026-06-08T18:45:00Z,debito,1111,388.00,UYU,Sushi Corner,mail,1
+b439897a054880ff,2026-06-08T16:23:00Z,debito,1111,281.66,UYU,Café del Puerto,mail,1
+58b6e6daec4cbf79,2026-06-08T17:27:00Z,debito,1111,0.00,UYU,Kiosco 24h (sin monto informado),mail,0
+f295db9f260992c9,2026-06-09T13:59:00Z,debito,1111,1070.19,UYU,Super Norte,mail,1
+7d4d80bf2dfaf292,2026-06-09T19:59:00Z,debito,1111,203.34,UYU,Tostado Café,mail,1
+acba6aadb39d89f6,2026-06-10T02:47:00Z,reembolso,1111,203.34,UYU,Tostado Café,mail,1
+455843257a9f5e13,2026-06-09T18:46:00Z,debito,1111,359.78,UYU,Taxi App Centro,mail,1
+2e07a7837acdb80a,2026-06-10T14:48:00Z,debito,1111,701.85,UYU,Sushi Corner,mail,1
+f62674c41f7d6804,2026-06-10T22:36:00Z,debito,1111,384.65,UYU,Taxi App,mail,1
+e5083e72719be19b,2026-06-10T23:31:00Z,debito,1111,162.05,UYU,Kiosco 24h,mail,1
+f4b0883fa98402fa,2026-06-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+d5c824b7cdb80bbd,2026-06-11T20:06:00Z,debito,1111,1055.05,UYU,Mercado Central,mail,1
+4e22d815e4c3bab9,2026-06-11T18:10:00Z,debito,1111,217.84,UYU,DeliveryYa Envío,mail,1
+e58cf4183399da63,2026-06-12T01:22:00Z,debito,1111,278.43,UYU,Café del Puerto,mail,1
+cd7af0d7334307c7,2026-06-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+11145e40eb2c21af,2026-06-13T12:08:00Z,debito,1111,1641.46,UYU,Burger Lab,mail,1
+bd10ed1b6bd91690,2026-06-13T17:10:00Z,debito,1111,306.91,UYU,Taxi App,mail,1
+9f5d1d5709b0016e,2026-06-13T22:15:00Z,debito,1111,508.73,UYU,Óptica Visión,mail,1
+5b7274258db64e8a,2026-06-13T15:13:00Z,debito,1111,627.56,UYU,Tienda Web,mail,1
+f702bc0266da41bc,2026-06-15T01:49:00Z,debito,1111,975.59,UYU,Mercado Central,mail,1
+58296cc2e555404d,2026-06-14T22:01:00Z,debito,1111,878.04,UYU,Pizzería Roma,mail,1
+8367be2264c2b872,2026-06-14T15:53:00Z,debito,1111,193.98,UYU,Kiosco 24h,mail,1
+b46555589969f1a0,2026-06-14T14:53:00Z,debito,1111,1386.17,UYU,Tienda Web,mail,1
+b82d50649d12232f,2026-06-15T14:21:00Z,debito,1111,282.83,UYU,Pizzería Roma,mail,1
+35ad89b035f54007,2026-06-16T13:48:00Z,debito,1111,1146.91,UYU,Pizzería Roma,mail,1
+3e59f91f426f2799,2026-06-16T21:34:00Z,debito,1111,173.05,UYU,Kiosco 24h,mail,1
+0ed42fd69a2a6bdc,2026-06-18T01:17:00Z,debito,1111,645.01,UYU,Bar La Plaza,mail,1
+4ac5459b39d6724b,2026-06-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+4e6e269bf47fa4fb,2026-06-19T17:21:00Z,debito,1111,1234.44,UYU,Almacén La Esquina,mail,1
+99613c9ece6006e1,2026-06-19T20:42:00Z,debito,1111,221.60,UYU,Sushi Corner,mail,1
+f39578c4f97a267c,2026-06-19T15:54:00Z,debito,1111,124.77,UYU,Café del Puerto,mail,1
+aa3f344096a65f5b,2026-06-19T23:05:00Z,debito,1111,46.16,UYU,Kiosco 24h,mail,1
+8f8195e002f41958,2026-06-20T14:22:00Z,debito,1111,662.73,UYU,Pizzería Roma,mail,1
+2543d96574328694,2026-06-20T14:46:00Z,debito,1111,316.64,UYU,Café del Puerto,mail,1
+d7b3a695b4dc4aa6,2026-06-20T13:49:00Z,debito,1111,349.18,UYU,Farmacia Central,mail,1
+6071f8f78fc76bf0,2026-06-21T14:17:00Z,debito,1111,561.81,UYU,Sushi Corner,mail,1
+238882a6572c3482,2026-06-22T00:48:00Z,debito,1111,280.75,UYU,Café del Puerto,mail,1
+cf2c0b8d30247e7d,2026-06-21T17:47:00Z,debito,1111,233.85,UYU,Kiosco 24h,mail,1
+83ccfa4909658810,2026-06-22T11:59:00Z,debito,1111,155.02,UYU,Taxi App Centro,mail,1
+c4004718d9d0795d,2026-06-22T17:28:00Z,debito,1111,119.63,UYU,Kiosco 24h,mail,1
+1e7a0e7912513a5a,2026-06-22T11:35:00Z,debito,1111,331.44,UYU,Farmacia Central,mail,1
+6db53d53c37ea058,2026-06-23T14:33:00Z,debito,1111,279.40,UYU,DeliveryYa Envío,mail,1
+25453a8f2f6eb5b5,2026-06-23T22:26:00Z,debito,1111,219.45,UYU,Café del Puerto,mail,1
+ccbeaeb8abac6100,2026-06-24T20:58:00Z,debito,1111,1524.53,UYU,Mercado Central,mail,1
+6215af136f802cf8,2026-06-25T17:14:00Z,debito,1111,71.34,UYU,Kiosco 24h,mail,1
+f0074e6a39640217,2026-06-26T16:46:00Z,debito,1111,461.97,UYU,Burger Lab,mail,1
+e7fe154ca303bf27,2026-06-26T12:41:00Z,debito,1111,263.67,UYU,Café del Puerto,mail,1
+144e0fb34422d4a2,2026-06-27T21:00:00Z,debito,1111,1173.99,UYU,Super Norte,mail,1
+4cf3f46e599e6c91,2026-06-27T20:58:00Z,debito,1111,479.91,UYU,DeliveryYa Envío,mail,1
+e6a9da80d373debf,2026-06-27T18:48:00Z,debito,1111,123.53,UYU,Kiosco 24h,mail,1
+7efa6db24adebcf4,2026-06-27T18:25:00Z,debito,1111,1003.66,UYU,Cine Plaza,mail,1
+c7b7e5f1ad016030,2026-06-28T12:29:00Z,debito,1111,480.78,UYU,Burger Lab,mail,1
+f53ef9ea8dfc8537,2026-06-28T19:55:00Z,debito,1111,94.54,UYU,Kiosco 24h,mail,1
+2b4411d166c8da67,2026-06-29T11:34:00Z,debito,1111,115.04,UYU,Tostado Café,mail,1
+fbf6f1bbc7a5f94b,2026-06-30T15:28:00Z,debito,1111,878.53,UYU,Mercado Central,mail,1
+0b9164ee616fe885,2026-06-30T22:05:00Z,debito,1111,303.69,UYU,Sushi Corner,mail,1
+94e7ce5d347a486e,2026-07-01T12:44:00Z,debito,1111,245.82,UYU,Café del Puerto,mail,1
+2519eb58ca91cff2,2026-07-01T16:26:00Z,debito,1111,186.85,UYU,Kiosco 24h,mail,1
+ea39f0e786465939,2026-07-01T16:29:00Z,debito,1111,391.36,UYU,Bar La Plaza,mail,1
+311365383d5ab45f,2026-07-01T21:41:00Z,debito,1111,870.87,UYU,Tienda Web,mail,1
+f6e96fc5387ea53c,2026-07-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+96b5990c88293939,2026-07-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+86aa66e200b7f521,2026-07-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+9982977a374edd4a,2026-07-02T17:17:00Z,debito,1111,600.60,UYU,Pizzería Roma,mail,1
+12d3b79c47fb40da,2026-07-02T22:29:00Z,debito,1111,434.55,UYU,Café del Puerto,mail,1
+6002d33cd6fcd187,2026-07-02T15:07:00Z,debito,1111,168.48,UYU,Kiosco 24h,mail,1
+d605e5407792af1c,2026-07-02T16:04:00Z,debito,1111,1025.44,UYU,Cine Plaza,mail,1
+dc03c24fe729aaa3,2026-07-04T01:09:00Z,debito,1111,1123.22,UYU,Almacén La Esquina,mail,1
+f02d067734465a73,2026-07-03T22:29:00Z,debito,1111,187.97,UYU,Taxi App Centro,mail,1
+1ef2549113c22c44,2026-07-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+7a3fb2c9c370dc1c,2026-07-05T01:47:00Z,debito,1111,520.66,UYU,Pizzería Roma,mail,1
+f812156040f6fd20,2026-07-05T02:43:00Z,reembolso,1111,520.66,UYU,Pizzería Roma,mail,1
+503e4022366885f1,2026-07-04T18:23:00Z,debito,1111,140.60,UYU,Taxi App Centro,mail,1
+f165a59cd58b4e8d,2026-07-04T21:05:00Z,debito,1111,133.25,UYU,Kiosco 24h,mail,1
+a131b2cb688774ef,2026-07-04T20:40:00Z,debito,1111,871.06,UYU,Bar La Plaza,mail,1
+44f07191add7ec1a,2026-07-05T13:53:00Z,debito,1111,446.66,UYU,Pizzería Roma,mail,1
+6219e5cd1b74eb8e,2026-07-05T17:33:00Z,debito,1111,376.27,UYU,Taxi App,mail,1
+6cde0eaf2b0b5212,2026-07-05T15:24:00Z,debito,1111,91.20,UYU,Kiosco 24h,mail,1
+6ac48cbc73f9cf88,2026-07-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+847dc345c3c9b4b1,2026-07-06T19:07:00Z,debito,1111,628.06,UYU,Cine Plaza,mail,1
+290c40ca85b53976,2026-07-07T18:09:00Z,debito,1111,652.51,UYU,Taxi App Centro,mail,1
+5fa002e8a3b63158,2026-07-07T18:06:00Z,debito,1111,71.24,UYU,Kiosco 24h,mail,1
+2537c3658742cb8b,2026-07-08T20:52:00Z,debito,1111,1558.93,UYU,Mercado Central,mail,1
+59762ff283e42481,2026-07-08T18:24:00Z,debito,1111,128.01,UYU,Kiosco 24h,mail,1
+bed968fb038faf5d,2026-07-09T15:26:00Z,debito,1111,133.56,UYU,Taxi App,mail,1
+8ce35de748861713,2026-07-09T21:13:00Z,debito,1111,50.25,UYU,Kiosco 24h,mail,1
+161300d3d4ea8e3a,2026-07-09T19:20:00Z,debito,1111,558.67,UYU,Óptica Visión,mail,1
+2ad844e54fefaa08,2026-07-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+16e055e9893eb740,2026-07-11T20:33:00Z,debito,1111,559.68,UYU,Pizzería Roma,mail,1
+e842aadcc6a4d48d,2026-07-11T23:28:00Z,debito,1111,218.15,UYU,Tostado Café,mail,1
+6347a6c716d04092,2026-07-12T02:12:00Z,reembolso,1111,218.15,UYU,Tostado Café,mail,1
+112e11373ae7ec6b,2026-07-12T15:40:00Z,debito,1111,921.59,UYU,Sushi Corner,mail,1
+fc41ddcff7098a29,2026-07-12T11:44:00Z,debito,1111,148.14,UYU,Café del Puerto,mail,1
+50d287f586c8efb8,2026-07-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+21c2307c27edd5d3,2026-07-14T00:09:00Z,debito,1111,599.60,UYU,Mercado Central,mail,1
+b539f3b16e3b7432,2026-07-13T17:25:00Z,debito,1111,0.00,UYU,Kiosco 24h (sin monto informado),mail,0
+b74de70a52122725,2026-07-14T20:38:00Z,debito,1111,1025.83,UYU,Sushi Corner,mail,1
+8abe83a0191b17c4,2026-07-14T11:30:00Z,debito,1111,141.08,UYU,Café del Puerto,mail,1
+b31d29f900c0a63e,2026-07-16T00:24:00Z,debito,1111,3158.93,UYU,Mercado Central,mail,1
+539f58299733a992,2026-07-15T20:36:00Z,debito,1111,743.52,UYU,Sushi Corner,mail,1
+a54dccf55e90c091,2026-07-15T19:54:00Z,debito,1111,141.90,UYU,Café del Puerto,mail,1
+4e60d9303c377fe1,2026-07-15T17:59:00Z,debito,1111,286.62,UYU,Taxi App,mail,1
+552c0b545e5773da,2026-07-15T21:41:00Z,debito,1111,235.21,UYU,Kiosco 24h,mail,1
+c287c231e063f6fb,2026-07-16T15:11:00Z,debito,1111,928.90,UYU,Almacén La Esquina,mail,1
+0ba144ad38e48aad,2026-07-16T21:43:00Z,debito,1111,2260.88,UYU,Sushi Corner,mail,1
+168303eda39d711b,2026-07-16T11:33:00Z,debito,1111,130.84,UYU,Tostado Café,mail,1
+d0de1667d75f6107,2026-07-16T12:29:00Z,debito,1111,254.87,UYU,Kiosco 24h,mail,1
+156949ce6271b908,2026-07-16T11:17:00Z,debito,1111,1593.03,UYU,Cine Plaza,mail,1
+76ed47c3d4e2e1a9,2026-07-17T17:38:00Z,debito,1111,260.01,UYU,Taxi App Centro,mail,1
+b27c943da2d0697c,2026-07-17T20:34:00Z,debito,1111,61.46,UYU,Kiosco 24h,mail,1
+6cf84e82294c0a12,2026-07-18T20:45:00Z,debito,1111,888.44,UYU,Sushi Corner,mail,1
+5c860c2f3a5dac31,2026-07-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+5a415ebf6f0a6f4b,2026-07-19T17:02:00Z,debito,1111,791.47,UYU,Pizzería Roma,mail,1
+b212a8cc307e0b7d,2026-07-20T16:18:00Z,debito,1111,1126.08,UYU,Bar La Plaza,mail,1
+e39ba806c96b9620,2026-07-21T11:27:00Z,debito,1111,474.00,UYU,Óptica Visión,mail,1
+0bc2412187a9dd7a,2026-07-21T21:46:00Z,debito,1111,667.55,UYU,Tienda Web,mail,1
+4455baff264bfeac,2026-07-21T18:30:00Z,debito,1111,9400.00,UYU,Tienda Web,mail,1
+99f27c3e7973f7fb,2026-07-22T19:19:00Z,debito,1111,1250.40,UYU,DeliveryYa Envío,mail,1
+23e536eef9cfba8e,2026-07-23T14:43:00Z,debito,1111,2161.18,UYU,Almacén La Esquina,mail,1
+f037de9f374d6216,2026-07-23T15:52:00Z,debito,1111,152.99,UYU,Café del Puerto,mail,1
+7c0bb72f1961718d,2026-07-23T22:02:00Z,debito,1111,160.82,UYU,Taxi App,mail,1
+131455a212102ec5,2026-07-24T01:32:00Z,debito,1111,180.47,UYU,Kiosco 24h,mail,1
+1d1d58c3bcd949ce,2026-07-23T16:39:00Z,debito,1111,279.90,UYU,Farmacia Central,mail,1
+5eebd5f239330bd3,2026-07-24T00:09:00Z,debito,1111,557.81,UYU,Cine Plaza,mail,1
+fd3723e103bf411b,2026-07-24T14:34:00Z,debito,1111,1901.54,UYU,Mercado Central,mail,1
+0015ae271683d821,2026-07-24T13:38:00Z,debito,1111,548.72,UYU,Taxi App,mail,1
+5b3c54331ee571f0,2026-07-24T18:53:00Z,debito,1111,164.21,UYU,Kiosco 24h,mail,1
+c1411e3c74c8d942,2026-07-25T14:38:00Z,debito,1111,1724.55,UYU,Mercado Central,mail,1
+228ad3800be66d62,2026-07-25T16:21:00Z,debito,1111,87.33,UYU,Kiosco 24h,mail,1
+1e021d5945e803b9,2026-07-27T20:55:00Z,debito,1111,118.22,UYU,Kiosco 24h,mail,1
+abc51e7369bd4770,2026-07-28T11:04:00Z,debito,1111,510.00,UYU,Burger Lab,mail,1
+28d9a72289edf998,2026-07-28T21:56:00Z,debito,1111,91.22,UYU,Kiosco 24h,mail,1
+ccec395ca79328f9,2026-07-28T23:33:00Z,debito,1111,303.71,UYU,Farmacia Central,mail,1
+a7e5621fcdda54b6,2026-07-28T20:51:00Z,debito,1111,779.84,UYU,Bar La Plaza,mail,1
+5f27b9838fa5bef4,2026-07-29T21:50:00Z,debito,1111,361.87,UYU,Tostado Café,mail,1
+0299eab083004934,2026-07-29T14:27:00Z,debito,1111,118.51,UYU,Kiosco 24h,mail,1
+6daf4fabd586e68d,2026-07-29T12:36:00Z,debito,1111,1664.33,UYU,Tienda Web,mail,1
+f2b822981969ba63,2026-07-30T02:11:00Z,reembolso,1111,1664.33,UYU,Tienda Web,mail,1
+27bca1b3f47a1766,2026-07-30T21:36:00Z,debito,1111,516.63,UYU,Burger Lab,mail,1
+c55db8723cfa9887,2026-07-30T17:22:00Z,debito,1111,138.93,UYU,Kiosco 24h,mail,1
+73becc19018d2cae,2026-07-31T14:38:00Z,debito,1111,474.78,UYU,DeliveryYa Envío,mail,1
+88cb5d4a24585f49,2026-07-31T11:38:00Z,debito,1111,222.27,UYU,Kiosco 24h,mail,1
+8db5fb306ba704f0,2026-07-31T19:04:00Z,debito,1111,892.50,UYU,Bar La Plaza,mail,1
+2f28f7b75d3ceef8,2026-08-01T13:21:00Z,debito,1111,425.73,UYU,Pizzería Roma,mail,1
+a79c77b764d3c610,2026-08-02T01:14:00Z,debito,1111,799.08,UYU,Bar La Plaza,mail,1
+5e6c36a282f8e6db,2026-08-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+8f6e4cdfe7cb9eea,2026-08-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+fbd5d5e5634654e2,2026-08-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+3500e34ca806bb4b,2026-08-02T18:49:00Z,debito,1111,1445.39,UYU,Almacén La Esquina,mail,1
+4585bedac450a82f,2026-08-03T01:18:00Z,debito,1111,1020.76,UYU,Burger Lab,mail,1
+6e992ce2e01ffaba,2026-08-02T11:00:00Z,debito,1111,115.24,UYU,Tostado Café,mail,1
+4b47bf7fb7f4d64a,2026-08-03T12:51:00Z,debito,1111,132.08,UYU,Kiosco 24h,mail,1
+e8a5a4f28f74aa9e,2026-08-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+dddd71f28ebc375e,2026-08-04T16:17:00Z,debito,1111,947.38,UYU,Super Norte,mail,1
+e1a64e35372b1c7c,2026-08-04T18:22:00Z,debito,1111,441.52,UYU,Pizzería Roma,mail,1
+4cc2635afbdee4e3,2026-08-05T00:59:00Z,debito,1111,223.26,UYU,Kiosco 24h,mail,1
+767b4cb170ab182a,2026-08-06T00:21:00Z,debito,1111,653.02,UYU,Almacén La Esquina,mail,1
+726041072dca3337,2026-08-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+034ddae559d65a7f,2026-08-06T15:33:00Z,debito,1111,1537.90,UYU,Super Norte,mail,1
+189d7965c056dcb3,2026-08-06T17:19:00Z,debito,1111,216.35,UYU,Sushi Corner,mail,1
+34b7a60b53467918,2026-08-06T16:00:00Z,debito,1111,62.61,UYU,Kiosco 24h,mail,1
+8ad01369b2b2a82c,2026-08-07T02:43:00Z,reembolso,1111,62.61,UYU,Kiosco 24h,mail,1
+84ffc1f501c164f5,2026-08-07T12:19:00Z,debito,1111,176.12,UYU,Kiosco 24h,mail,1
+e7d8aa81643fcbe4,2026-08-08T18:44:00Z,debito,1111,689.07,UYU,DeliveryYa Envío,mail,1
+b7d0ed27c0cac837,2026-08-09T01:34:00Z,debito,1111,251.99,UYU,Tostado Café,mail,1
+f963eb4dddd909d5,2026-08-09T01:55:00Z,debito,1111,159.07,UYU,Taxi App,mail,1
+58a0186d196a73af,2026-08-08T23:24:00Z,debito,1111,177.27,UYU,Kiosco 24h,mail,1
+5b0d7fe0b6a8b797,2026-08-08T16:01:00Z,debito,1111,856.53,UYU,Cine Plaza,mail,1
+40330111ffa76afb,2026-08-09T22:26:00Z,debito,1111,811.48,UYU,Almacén La Esquina,mail,1
+8066cef896869e81,2026-08-09T11:22:00Z,debito,1111,1398.55,UYU,Pizzería Roma,mail,1
+763bd334e90c4af7,2026-08-09T14:44:00Z,debito,1111,166.05,UYU,Café del Puerto,mail,1
+200aa4dddab8b605,2026-08-09T14:58:00Z,debito,1111,446.93,UYU,Taxi App,mail,1
+eaa3ed0c5b7ce9a6,2026-08-09T14:41:00Z,debito,1111,130.21,UYU,Kiosco 24h,mail,1
+b90348d5f2383d38,2026-08-09T13:23:00Z,debito,1111,1069.75,UYU,Bar La Plaza,mail,1
+bee890a2764b025f,2026-08-10T22:23:00Z,debito,1111,679.17,UYU,Almacén La Esquina,mail,1
+6c39de443f6c8f06,2026-08-11T00:53:00Z,debito,1111,635.75,UYU,Burger Lab,mail,1
+135edd4def7b0ce7,2026-08-10T18:57:00Z,debito,1111,287.61,UYU,Taxi App,mail,1
+b4c3751c1e5252e2,2026-08-10T22:46:00Z,debito,1111,128.53,UYU,Kiosco 24h,mail,1
+72679bb7fe0561c2,2026-08-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+3f47eca918ba10a5,2026-08-11T19:50:00Z,debito,1111,618.23,UYU,Pizzería Roma,mail,1
+c1baeef7235375ca,2026-08-11T22:31:00Z,debito,1111,59.25,UYU,Kiosco 24h,mail,1
+8491828c31da6f79,2026-08-12T22:43:00Z,debito,1111,2398.42,UYU,Mercado Central,mail,1
+86205320c870038e,2026-08-12T21:04:00Z,debito,1111,79.91,UYU,Café del Puerto,mail,1
+2c1c49c5dd0b40ef,2026-08-12T14:27:00Z,debito,1111,256.59,UYU,Taxi App,mail,1
+176c244f7f0f71d6,2026-08-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+105f8835721a6eb1,2026-08-13T15:24:00Z,debito,1111,1251.15,UYU,Super Norte,mail,1
+ce8481867cef8b90,2026-08-15T01:18:00Z,debito,1111,222.74,UYU,Café del Puerto,mail,1
+33ea8e2dfb10cfae,2026-08-15T01:35:00Z,debito,1111,288.46,UYU,Taxi App Centro,mail,1
+ef9c79cbbece5c5d,2026-08-14T15:24:00Z,debito,1111,2263.79,UYU,Tienda Web,mail,1
+7560515f861687df,2026-08-15T11:27:00Z,debito,1111,561.90,UYU,Sushi Corner,mail,1
+9c98ca360800d557,2026-08-17T00:36:00Z,debito,1111,353.15,UYU,Pizzería Roma,mail,1
+9df394026d0af226,2026-08-18T00:57:00Z,debito,1111,91.07,UYU,Tostado Café,mail,1
+5788fd54c09b985c,2026-08-17T23:12:00Z,debito,1111,156.17,UYU,Taxi App,mail,1
+6e33d4dd33a5fed6,2026-08-18T12:22:00Z,debito,1111,1017.13,UYU,Mercado Central,mail,1
+06ddabd924ace748,2026-08-18T18:22:00Z,debito,1111,47.63,UYU,Kiosco 24h,mail,1
+609d72aaf50a1784,2026-08-19T01:17:00Z,debito,1111,231.16,UYU,Farmacia Central,mail,1
+dcbe3ef11211f8d5,2026-08-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+735eac0a9354a4c9,2026-08-20T20:32:00Z,debito,1111,1193.20,UYU,Mercado Central,mail,1
+f69b606710efb660,2026-08-21T01:28:00Z,debito,1111,721.30,UYU,DeliveryYa Envío,mail,1
+116a1a0735e4a4b8,2026-08-21T15:02:00Z,debito,1111,1042.76,UYU,Super Norte,mail,1
+9d78839f749c6628,2026-08-22T15:25:00Z,debito,1111,450.80,UYU,Sushi Corner,mail,1
+68a4498637e2302a,2026-08-23T18:43:00Z,debito,1111,885.84,UYU,Mercado Central,mail,1
+e8956cb151ce3b65,2026-08-23T14:11:00Z,debito,1111,1265.97,UYU,Tienda Web,mail,1
+b616df9ff0438a6c,2026-08-24T12:59:00Z,debito,1111,515.26,UYU,Taxi App Centro,mail,1
+9b59418f3612d705,2026-08-25T16:53:00Z,debito,1111,488.85,UYU,Sushi Corner,mail,1
+5756dad0d6f395d9,2026-08-25T18:34:00Z,debito,1111,147.89,UYU,Kiosco 24h,mail,1
+44d11cd295ab9b0a,2026-08-26T21:59:00Z,debito,1111,301.08,UYU,Tostado Café,mail,1
+d88e620c02ae78d3,2026-08-26T17:32:00Z,debito,1111,1231.53,UYU,Tienda Web,mail,1
+762d31adc75f070d,2026-08-27T14:44:00Z,debito,1111,147.39,UYU,Tostado Café,mail,1
+1bd952e80b70cfca,2026-08-28T00:49:00Z,debito,1111,853.90,UYU,Taxi App,mail,1
+467f02634dd1c993,2026-08-28T18:38:00Z,debito,1111,858.19,UYU,Almacén La Esquina,mail,1
+1ba0e9305eca55a5,2026-08-28T19:01:00Z,debito,1111,88.68,UYU,Kiosco 24h,mail,1
+69b71ac2882f09ff,2026-08-29T18:15:00Z,debito,1111,1281.29,UYU,Super Norte,mail,1
+015899cd40444878,2026-08-30T19:15:00Z,debito,1111,1047.94,UYU,Almacén La Esquina,mail,1
+9bcb3e4e16c45cb5,2026-08-30T15:28:00Z,debito,1111,144.65,UYU,Kiosco 24h,mail,1
+200642d1695af269,2026-08-31T21:51:00Z,debito,1111,143.45,UYU,Tostado Café,mail,1
+516a5edc59623bf8,2026-08-31T11:26:00Z,debito,1111,103.58,UYU,Kiosco 24h,mail,1
+afa0237a67f6b8b1,2026-09-01T02:57:00Z,reembolso,1111,296.25,UYU,Óptica Visión,mail,1
+1ff47e72d7662623,2026-09-01T16:11:00Z,debito,1111,223.11,UYU,Taxi App Centro,mail,1
+c8dd1dbae77177c0,2026-09-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+a8f2e6288d2b2302,2026-09-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+48c7d3578c6af4a7,2026-09-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+e420c66e7d4eed19,2026-09-02T18:24:00Z,debito,1111,680.13,UYU,Sushi Corner,mail,1
+a78430a873b13ad1,2026-09-02T13:59:00Z,debito,1111,78.40,UYU,Tostado Café,mail,1
+d3bc89634327e560,2026-09-02T17:47:00Z,debito,1111,109.43,UYU,Kiosco 24h,mail,1
+744b6d40003271f2,2026-09-02T19:06:00Z,debito,1111,3277.88,UYU,Tienda Web,mail,1
+8f6b75380bfa7d46,2026-09-03T16:56:00Z,debito,1111,444.95,UYU,Café del Puerto,mail,1
+df0e4e981d0a7722,2026-09-04T01:02:00Z,debito,1111,1146.21,UYU,Cine Plaza,mail,1
+e8352bed9689b8e3,2026-09-03T22:17:00Z,debito,1111,982.24,UYU,Tienda Web,mail,1
+7566155282462cf4,2026-09-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+29dea72de8ab7fc3,2026-09-04T19:00:00Z,debito,1111,2668.83,UYU,Super Norte,mail,1
+038c7d36bd0233d7,2026-09-04T11:47:00Z,debito,1111,775.20,UYU,Pizzería Roma,mail,1
+1e6c26cd99854b78,2026-09-04T14:15:00Z,debito,1111,146.12,UYU,Café del Puerto,mail,1
+283e28bf83e14bf1,2026-09-05T11:38:00Z,debito,1111,907.06,UYU,Pizzería Roma,mail,1
+e30b2120e98c44a7,2026-09-05T15:19:00Z,debito,1111,104.86,UYU,Kiosco 24h,mail,1
+f5f3da6c609b4db3,2026-09-05T16:29:00Z,debito,1111,906.16,UYU,Bar La Plaza,mail,1
+65d56c79406d0f0c,2026-09-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+136f69560eeab68e,2026-09-06T22:09:00Z,debito,1111,1545.40,UYU,Super Norte,mail,1
+5c8b3251ad3b9642,2026-09-06T14:09:00Z,debito,1111,569.40,UYU,Sushi Corner,mail,1
+d0f208224f6ffaa8,2026-09-06T17:15:00Z,debito,1111,194.74,UYU,Kiosco 24h,mail,1
+fd157d2a033ef104,2026-09-07T21:00:00Z,debito,1111,340.09,UYU,Taxi App Centro,mail,1
+9e91bb0f0aa6784b,2026-09-08T23:27:00Z,debito,1111,169.28,UYU,Taxi App,mail,1
+f455039fa1003c28,2026-09-09T02:19:00Z,reembolso,1111,169.28,UYU,Taxi App,mail,1
+d0ca89580df50015,2026-09-08T23:43:00Z,debito,1111,185.00,UYU,Kiosco 24h,mail,1
+9b859bd5d015d090,2026-09-09T12:50:00Z,debito,1111,397.79,UYU,Óptica Visión,mail,1
+2f07590ece95307b,2026-09-10T17:39:00Z,debito,1111,1539.58,UYU,Mercado Central,mail,1
+bb257a7b7569eed3,2026-09-10T11:57:00Z,debito,1111,187.00,UYU,Tostado Café,mail,1
+d0cfc027376da1c9,2026-09-10T20:48:00Z,debito,1111,254.11,UYU,Taxi App,mail,1
+2fb1e4e3c67d49ac,2026-09-11T02:54:00Z,reembolso,1111,254.11,UYU,Taxi App,mail,1
+a00dbd5ae1012acd,2026-09-11T00:14:00Z,debito,1111,61.67,UYU,Kiosco 24h,mail,1
+10ab77fd87cdcefe,2026-09-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+f4a98d3548a97d78,2026-09-11T11:38:00Z,debito,1111,687.69,UYU,Pizzería Roma,mail,1
+eee7e6ff2dce3b69,2026-09-11T22:04:00Z,debito,1111,135.68,UYU,Tostado Café,mail,1
+ba4d55c0ebf01667,2026-09-11T20:06:00Z,debito,1111,134.66,UYU,Kiosco 24h,mail,1
+f6ddf75fa3c95130,2026-09-12T12:43:00Z,debito,1111,1351.16,UYU,Mercado Central,mail,1
+7987302051832c67,2026-09-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+a4ec06c0b77d7a22,2026-09-13T23:13:00Z,debito,1111,2957.21,UYU,Super Norte,mail,1
+3dc0bcee1887b7d2,2026-09-13T16:03:00Z,debito,1111,211.60,UYU,Tostado Café,mail,1
+468439a5a4db24c0,2026-09-13T18:37:00Z,debito,1111,125.42,UYU,Kiosco 24h,mail,1
+8cbf9f9c87da9ad7,2026-09-15T00:23:00Z,debito,1111,70.72,UYU,Kiosco 24h,mail,1
+f23a321b0f6d2986,2026-09-15T23:33:00Z,debito,1111,1384.21,UYU,Pizzería Roma,mail,1
+fc78dcdd81ce24d0,2026-09-15T19:29:00Z,debito,1111,226.77,UYU,Kiosco 24h,mail,1
+5b713f063a819df6,2026-09-16T23:44:00Z,debito,1111,1041.45,UYU,Mercado Central,mail,1
+1430316b34ff8098,2026-09-16T16:04:00Z,debito,1111,204.24,UYU,Kiosco 24h,mail,1
+9309fe738152f0f2,2026-09-16T21:21:00Z,debito,1111,1174.31,UYU,Cine Plaza,mail,1
+76ac00871695afeb,2026-09-17T23:44:00Z,debito,1111,169.71,UYU,Taxi App Centro,mail,1
+abc98d9df6e59eaf,2026-09-18T02:05:00Z,reembolso,1111,169.71,UYU,Taxi App Centro,mail,1
+a8e66cc4fd482483,2026-09-17T17:59:00Z,debito,1111,66.13,UYU,Kiosco 24h,mail,1
+5289dccb43872b1b,2026-09-18T02:36:00Z,reembolso,1111,66.13,UYU,Kiosco 24h,mail,1
+b89ce80944cc1efa,2026-09-17T18:30:00Z,credito,2222,389.90,USD,Resort Booking,mail,1
+fc8650f5bfafbd05,2026-09-18T12:09:00Z,debito,1111,857.41,UYU,Mercado Central,mail,1
+a8398e1892d112c7,2026-09-18T18:54:00Z,debito,1111,1201.22,UYU,DeliveryYa Envío,mail,1
+8e81e1aefce68cda,2026-09-19T00:33:00Z,debito,1111,542.42,UYU,Taxi App,mail,1
+6f420369d19ff217,2026-09-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+15f40d5f9b849912,2026-09-20T00:53:00Z,debito,1111,505.84,UYU,Pizzería Roma,mail,1
+82067880dacb3211,2026-09-19T19:47:00Z,debito,1111,260.21,UYU,Kiosco 24h,mail,1
+fce6a8f3e41217ba,2026-09-19T22:05:00Z,credito,2222,57.21,USD,Intl Store,mail,1
+3bdf187d57401c6a,2026-09-20T23:36:00Z,debito,1111,1097.96,UYU,Almacén La Esquina,mail,1
+d91256626e3b17f2,2026-09-20T21:37:00Z,debito,1111,767.21,UYU,Sushi Corner,mail,1
+068c3fbbecbc044b,2026-09-20T13:59:00Z,debito,1111,360.54,UYU,Tostado Café,mail,1
+9209d1e82c42a6cf,2026-09-20T13:59:00Z,debito,1111,219.81,UYU,Kiosco 24h,mail,1
+d37d5e74217647b9,2026-09-21T11:50:00Z,debito,1111,481.04,UYU,Pizzería Roma,mail,1
+779221ddb0b8382e,2026-09-21T19:48:00Z,debito,1111,930.27,UYU,Bar La Plaza,mail,1
+9cd15895f934ba4b,2026-09-22T18:08:00Z,debito,1111,670.21,UYU,Pizzería Roma,mail,1
+bcbb18b778d87871,2026-09-22T19:07:00Z,debito,1111,214.20,UYU,Taxi App Centro,mail,1
+92f505bacfcbe8be,2026-09-22T15:00:00Z,debito,1111,68.70,UYU,Kiosco 24h,mail,1
+247a7ee2c89ca26c,2026-09-23T22:58:00Z,debito,1111,1171.32,UYU,Mercado Central,mail,1
+08c4229a57ba1f6a,2026-09-23T19:36:00Z,debito,1111,121.17,UYU,Kiosco 24h,mail,1
+8bf4e40e05a40763,2026-09-24T12:51:00Z,debito,1111,827.49,UYU,Almacén La Esquina,mail,1
+101ad427f604acb8,2026-09-24T16:01:00Z,debito,1111,688.44,UYU,Pizzería Roma,mail,1
+6ccced56f3de8f2c,2026-09-24T21:38:00Z,debito,1111,0.00,UYU,Kiosco 24h (sin monto informado),mail,0
+7dfcd9b404aaee8c,2026-09-25T17:23:00Z,debito,1111,250.33,UYU,Taxi App,mail,1
+837cb4f10a4de44e,2026-09-26T01:46:00Z,debito,1111,67.93,UYU,Kiosco 24h,mail,1
+f8c578dfd5869edd,2026-09-27T00:22:00Z,debito,1111,673.88,UYU,Burger Lab,mail,1
+c1f776741a4e8c50,2026-09-26T19:07:00Z,debito,1111,220.46,UYU,Taxi App Centro,mail,1
+7c31366172b71063,2026-09-26T12:53:00Z,debito,1111,83.06,UYU,Kiosco 24h,mail,1
+cfdce900b69dd7c7,2026-09-27T13:09:00Z,debito,1111,191.18,UYU,Burger Lab,mail,1
+3fe0a261c16765f1,2026-09-29T16:53:00Z,debito,1111,712.79,UYU,Almacén La Esquina,mail,1
+dae1bd7f71fd9b96,2026-09-29T13:46:00Z,debito,1111,110.87,UYU,Kiosco 24h,mail,1
+92e14b0e8a84aa96,2026-09-30T19:43:00Z,debito,1111,228.20,UYU,Tostado Café,mail,1
+a5e4615ff2e1c67a,2026-09-30T13:45:00Z,debito,1111,347.81,UYU,Taxi App Centro,mail,1
+4673280b15c2cf55,2026-09-30T22:40:00Z,debito,1111,206.52,UYU,Kiosco 24h,mail,1
+71445225ab6f825d,2026-09-30T22:40:00Z,debito,1111,1174.93,UYU,Tienda Web,mail,1
+8dd37632722115f0,2026-10-01T13:35:00Z,debito,1111,90.60,UYU,Taxi App Centro,mail,1
+fded1ebf08ec0e30,2026-10-01T12:24:00Z,debito,1111,174.79,UYU,Kiosco 24h,mail,1
+26d5bca80e4231fb,2026-10-01T15:00:00Z,manual,-,32500.00,UYU,Alquiler,recurrente,1
+3aa8cbedffc5f30a,2026-10-01T15:00:00Z,manual,-,1900.00,UYU,Gym,recurrente,1
+f63090c11520c35e,2026-10-01T15:00:00Z,manual,-,1350.00,UYU,Celular,recurrente,1
+75c013cad498f308,2026-10-02T13:12:00Z,debito,1111,180.11,UYU,Taxi App,mail,1
+f76552cd8aac0004,2026-10-03T14:19:00Z,debito,1111,2421.00,UYU,Almacén La Esquina,mail,1
+d90d45a4e469a212,2026-10-03T20:03:00Z,debito,1111,535.01,UYU,Sushi Corner,mail,1
+b32be62550f71fd1,2026-10-03T16:52:00Z,debito,1111,238.67,UYU,Taxi App Centro,mail,1
+c6ee36009277b609,2026-10-03T13:00:00Z,transferencia,1111,12000.00,UYU,Transferencia a cuenta propia (ahorro),mail,1
+7a62d61d8fa919c6,2026-10-04T23:01:00Z,debito,1111,2100.44,UYU,Mercado Central,mail,1
+c9a36d8d5a0eebfb,2026-10-04T11:47:00Z,debito,1111,169.10,UYU,Tostado Café,mail,1
+2db257db975921bf,2026-10-05T21:15:00Z,debito,1111,647.71,UYU,Sushi Corner,mail,1
+2812e34669303195,2026-10-05T19:49:00Z,debito,1111,187.94,UYU,Taxi App Centro,mail,1
+a1f24b084f5cfd26,2026-10-05T11:34:00Z,debito,1111,91.19,UYU,Kiosco 24h,mail,1
+6ad288f32e0f75c2,2026-10-05T16:02:00Z,debito,1111,895.22,UYU,Bar La Plaza,mail,1
+80ee23f983b477b4,2026-10-05T09:00:00Z,debito,1111,12.99,USD,Streaming Plus,mail,1
+48ee9318d9e7bc95,2026-10-07T00:27:00Z,debito,1111,773.83,UYU,Almacén La Esquina,mail,1
+f3f860641afeef13,2026-10-06T20:06:00Z,debito,1111,419.96,UYU,Óptica Visión,mail,1
+17578abea8a806d6,2026-10-07T15:32:00Z,debito,1111,1374.00,UYU,Mercado Central,mail,1
+af0fa629f5dc8e7c,2026-10-08T19:34:00Z,debito,1111,730.41,UYU,Mercado Central,mail,1
+5577f04ffc45c01c,2026-10-08T19:55:00Z,debito,1111,871.16,UYU,Burger Lab,mail,1
+64c6b5e3e307751c,2026-10-09T02:45:00Z,reembolso,1111,871.16,UYU,Burger Lab,mail,1
+c79a8adee1dea125,2026-10-09T00:51:00Z,debito,1111,153.85,UYU,Kiosco 24h,mail,1
+0987ceae4dda5b28,2026-10-09T15:52:00Z,debito,1111,871.25,UYU,Sushi Corner,mail,1
+44916e144d59035e,2026-10-09T19:29:00Z,debito,1111,90.39,UYU,Café del Puerto,mail,1
+2afbf5e2fee8027b,2026-10-09T16:22:00Z,debito,1111,236.39,UYU,Taxi App,mail,1
+caa06294bafbdaa6,2026-10-10T22:17:00Z,debito,1111,641.36,UYU,Pizzería Roma,mail,1
+bef921e6ef055a9b,2026-10-10T21:03:00Z,debito,1111,229.94,UYU,Taxi App,mail,1
+ca3e42d96f4347ad,2026-10-10T15:00:00Z,manual,-,27800.00,UYU,Universidad,recurrente,1
+6c493e0f252acb02,2026-10-11T21:17:00Z,debito,1111,456.03,UYU,Sushi Corner,mail,1
+03952ac83cfd96a6,2026-10-12T02:40:00Z,reembolso,1111,456.03,UYU,Sushi Corner,mail,1
+65119abc2537653c,2026-10-11T19:04:00Z,debito,1111,152.92,UYU,Kiosco 24h,mail,1
+25728ef278e6fad2,2026-10-11T11:21:00Z,debito,1111,1663.87,UYU,Tienda Web,mail,1
+2d1b230b8cf3f3f2,2026-10-12T11:28:00Z,debito,1111,226.13,UYU,Tostado Café,mail,1
+dfaeede66f1a6a96,2026-10-12T09:00:00Z,debito,1111,2.99,USD,Cloud Storage,mail,1
+787323db8fe9c7ae,2026-10-12T18:30:00Z,debito,1111,4300.00,UYU,Burger Lab,mail,1
+232984935d29fef5,2026-10-13T23:51:00Z,debito,1111,121.41,UYU,Kiosco 24h,mail,1
+b30231f56d809557,2026-10-13T14:39:00Z,debito,1111,737.06,UYU,Óptica Visión,mail,1
+7b0345476456fa58,2026-10-14T12:08:00Z,debito,1111,948.19,UYU,Pizzería Roma,mail,1
+707d1280b86c920f,2026-10-14T21:02:00Z,debito,1111,115.93,UYU,Taxi App Centro,mail,1
+3ca00f063d34058b,2026-10-15T19:25:00Z,debito,1111,1377.37,UYU,Super Norte,mail,1
+1f762311899b6653,2026-10-15T17:35:00Z,debito,1111,218.66,UYU,Tostado Café,mail,1
+3cc3c4fe0713fb75,2026-10-15T16:31:00Z,debito,1111,119.41,UYU,Kiosco 24h,mail,1
+3c8bf48924fc49c3,2026-10-15T23:20:00Z,debito,1111,699.87,UYU,Tienda Web,mail,1
+4b48fb6111c864ee,2026-10-16T15:56:00Z,debito,1111,614.34,UYU,Almacén La Esquina,mail,1
+abafd81f92b86135,2026-10-16T14:52:00Z,debito,1111,214.86,UYU,Kiosco 24h,mail,1
+c8c59de952e9d504,2026-10-17T19:50:00Z,debito,1111,1767.67,UYU,Mercado Central,mail,1
+c8f249beb2194d1e,2026-10-18T01:33:00Z,debito,1111,362.02,UYU,DeliveryYa Envío,mail,1
+5389c72776db1f95,2026-10-17T20:15:00Z,debito,1111,417.05,UYU,Taxi App Centro,mail,1
+6ea91da7c3ccfb55,2026-10-19T00:16:00Z,debito,1111,1504.82,UYU,Mercado Central,mail,1
+d022aef246bd7b7f,2026-10-19T00:48:00Z,debito,1111,508.67,UYU,Pizzería Roma,mail,1
+4600e86b4fbbf100,2026-10-18T21:25:00Z,debito,1111,211.47,UYU,Tostado Café,mail,1
+a24c1fe6db2710d1,2026-10-18T23:24:00Z,debito,1111,187.12,UYU,Kiosco 24h,mail,1
+e588c7ed44c3ad62,2026-10-18T09:00:00Z,debito,1111,20.00,USD,AI Tools,mail,1
+8aff60b5dd53373d,2026-10-19T13:11:00Z,debito,1111,124.44,UYU,Kiosco 24h,mail,1
+3b3ea770f8432ba0,2026-10-19T18:47:00Z,debito,1111,738.93,UYU,Bar La Plaza,mail,1
+6cc32cda9657c83b,2026-10-20T13:50:00Z,debito,1111,485.74,UYU,Mercado Central,mail,1
+6236e2636ff8feba,2026-10-20T16:09:00Z,debito,1111,431.86,UYU,Taxi App,mail,1
+3319684449747d5c,2026-10-20T16:38:00Z,debito,1111,96.50,UYU,Kiosco 24h,mail,1
+c42d8889c18437f6,2026-10-21T16:20:00Z,debito,1111,1171.29,UYU,Almacén La Esquina,mail,1
+191288fde4369927,2026-10-22T17:26:00Z,debito,1111,113.74,UYU,Café del Puerto,mail,1
+46519ce9aa17bc8d,2026-10-23T01:19:00Z,debito,1111,130.34,UYU,Kiosco 24h,mail,1
+fe36d2ab333566e5,2026-10-22T20:52:00Z,debito,1111,819.12,UYU,Farmacia Central,mail,1
+876fac64ec02da51,2026-10-24T13:38:00Z,debito,1111,682.11,UYU,Pizzería Roma,mail,1
+a122b862d75140a7,2026-10-24T16:49:00Z,debito,1111,125.56,UYU,Kiosco 24h,mail,1
+46ce1bd545dffa21,2026-10-25T17:30:00Z,debito,1111,1127.66,UYU,Almacén La Esquina,mail,1
+2db16913deef4195,2026-10-26T01:28:00Z,debito,1111,2194.22,UYU,Sushi Corner,mail,1
+b5637db036e4bcd7,2026-10-25T22:16:00Z,debito,1111,223.73,UYU,Tostado Café,mail,1
+10c30a61362a6f56,2026-10-26T21:27:00Z,debito,1111,66.18,UYU,Taxi App Centro,mail,1
+14104f8a8c22d9c0,2026-10-26T20:03:00Z,debito,1111,138.45,UYU,Kiosco 24h,mail,1
+e39aaf0b11bb8b50,2026-10-27T20:14:00Z,debito,1111,747.38,UYU,Almacén La Esquina,mail,1
+8b798be02812d33a,2026-10-27T21:56:00Z,debito,1111,93.97,UYU,Kiosco 24h,mail,1
+d05de9772f612608,2026-10-28T21:23:00Z,debito,1111,433.03,UYU,Pizzería Roma,mail,1
+a47b424f604d25e3,2026-10-28T11:39:00Z,debito,1111,528.47,UYU,Bar La Plaza,mail,1
+d8c6e095316e3fb2,2026-10-29T23:14:00Z,debito,1111,326.50,UYU,Pizzería Roma,mail,1
+1565051119309edc,2026-10-29T19:16:00Z,debito,1111,298.59,UYU,Café del Puerto,mail,1
+0409241c90bac2d5,2026-11-01T01:15:00Z,debito,1111,1495.47,UYU,Mercado Central,mail,1
+5eaf76a238636d98,2026-10-31T11:00:00Z,debito,1111,937.40,UYU,DeliveryYa Envío,mail,1
+e44f5f23725ed9f1,2026-10-31T17:40:00Z,debito,1111,333.13,UYU,Café del Puerto,mail,1
+824bd2d18517f6a4,2026-11-01T00:33:00Z,debito,1111,107.74,UYU,Kiosco 24h,mail,1
+47a9945a19f80adf,2026-10-31T13:09:00Z,debito,1111,1042.02,UYU,Cine Plaza,mail,1
