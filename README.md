@@ -1,8 +1,16 @@
-# Voice Data Agent: spending analytics on Databricks (synthetic demo)
+# Gasty · a voice agent for my spending, on Databricks
 
-A medallion pipeline (bronze → silver → gold) on **Databricks Free Edition**, queried in natural language through **Genie**
-over its Conversation API, with every interaction logged to Delta. All data is **synthetic**: generated from scratch with a
-fixed seed, never derived from real transactions.
+[![Watch the 1:27 demo](docs/gasty-demo.jpg)](https://mateobartaburu.com)
+
+**[▶ Watch the demo (1:27)](https://mateobartaburu.com)**
+
+I talk to **Gasty** in real time and it answers with my numbers. The voice agent runs on the OpenAI Realtime API and hands
+each question to **Databricks Genie**, which writes the SQL over a bronze, silver and gold pipeline. Bank notification emails
+flow in on their own, and a weekly digest built with SQL on the gold tables lands in iMessage.
+
+This repository holds the **Databricks side**: a medallion pipeline on **Databricks Free Edition**, queried in natural
+language through Genie over its Conversation API, with every interaction logged to Delta. All data here is **synthetic**:
+generated from scratch with a fixed seed, never derived from real transactions.
 
 ```mermaid
 flowchart LR
@@ -39,6 +47,8 @@ python3 databricks/ask.py "Were there any unusual expenses recently?"
 Credentials: host in `config.json`, personal access token in the macOS Keychain (`databricks/setup_databricks.sh`). Nothing is stored in the repo.
 
 ## Honest scope
-Built with plain SQL and Python. **Not implemented yet:** dbt, Airflow, the voice front end, Delta Live Tables / Lakeflow expectations.
+Built with plain SQL and Python. The voice agent, the Gmail ingestion and the iMessage digest live in a private app because
+they also run on my real finances; in demo mode that app only talks to Genie over this synthetic dataset, which is what the
+video shows. **Not implemented yet:** dbt, Airflow, Delta Live Tables / Lakeflow expectations.
 For this data volume SQLite or Postgres would be enough; Databricks is used here to practice a real architecture.
 Free Edition: serverless only, no commercial use.
